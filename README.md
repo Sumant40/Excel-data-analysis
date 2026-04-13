@@ -1,4 +1,5 @@
 # Excel Analytics Project: Retail Sales Dashboard
+![Status](https://img.shields.io/badge/Status-Incomplete-red)
 ## Complete Step-by-Step Guide for Data Analyst Portfolio
 
 ---
