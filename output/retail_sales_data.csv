@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,City,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Sales_Rep
+ORD-0001,01-01-2023,CUST-5788,Neha Agarwal,Central,Nagpur,Smartphones,Realme GT,1,29100,10,Priya Patel
+ORD-0002,01-01-2023,CUST-4813,Swati Nambiar,North,Delhi,Accessories,Wireless Mouse,2,1800,5,Rohan Mehta
+ORD-0003,01-02-2023,CUST-4234,Sanjay Joshi,North,Lucknow,Accessories,Mechanical Keyboard,1,2000,10,Sneha Reddy
+ORD-0004,01-02-2023,CUST-7920,Sakshi Rathore,South,Chennai,Wearables,Samsung Galaxy Watch,1,27200,15,Rohan Mehta
+ORD-0005,01-02-2023,CUST-7626,Akash Pillai,North,Chandigarh,Tablets,Samsung Tab S8,1,33800,10,Vikram Singh
+ORD-0006,01-03-2023,CUST-3979,Pooja Desai,North,Jaipur,Tablets,Lenovo Tab P11,1,31100,25,Anjali Gupta
+ORD-0007,01-03-2023,CUST-7862,Meera Chawla,North,Jaipur,Wearables,Fitbit Versa 4,1,14800,10,Anjali Gupta
+ORD-0008,01-03-2023,CUST-4723,Kunal Dixit,South,Hyderabad,Smartphones,Realme GT,1,56600,10,Amit Kumar
+ORD-0009,01-03-2023,CUST-0051,Sneha Sharma,West,Mumbai,Wearables,Mi Band 7,2,10800,10,Sneha Reddy
+ORD-0010,01-04-2023,CUST-9409,Mohit Saxena,West,Surat,Smartphones,Realme GT,1,35200,20,Kavya Iyer
+ORD-0011,01-04-2023,CUST-0208,Arjun Nair,Central,Nagpur,Smartphones,Xiaomi 13,1,40100,10,Vikram Singh
+ORD-0012,01-05-2023,CUST-3178,Ananya Bose,East,Kolkata,Tablets,Lenovo Tab P11,1,30300,0,Vikram Singh
+ORD-0013,01-05-2023,CUST-6316,Sameer Dutta,North,Jaipur,Tablets,Samsung Tab S8,1,32800,0,Amit Kumar
+ORD-0014,01-05-2023,CUST-3979,Pooja Desai,West,Pune,Smartphones,Samsung Galaxy S23,1,30800,0,Vikram Singh
+ORD-0015,01-05-2023,CUST-3585,Rahul Kapoor,West,Ahmedabad,Accessories,Mechanical Keyboard,2,1400,10,Priya Patel
+ORD-0016,01-05-2023,CUST-9409,Mohit Saxena,West,Mumbai,Tablets,Samsung Tab S8,1,35400,0,Priya Patel
+ORD-0017,01-05-2023,CUST-2605,Tanvi Kulkarni,East,Kolkata,Laptops,Lenovo ThinkPad,1,58500,0,Amit Kumar
+ORD-0018,01-06-2023,CUST-3585,Rahul Kapoor,East,Kolkata,Accessories,Wireless Mouse,3,1800,0,Rohan Mehta
+ORD-0019,01-06-2023,CUST-0051,Sneha Sharma,South,Bangalore,Wearables,Apple Watch Series 8,1,28800,10,Rahul Sharma
+ORD-0020,01-06-2023,CUST-3666,Manish Arora,South,Chennai,Tablets,Samsung Tab S8,1,34600,10,Sneha Reddy
+ORD-0021,01-07-2023,CUST-3666,Manish Arora,South,Chennai,Accessories,Webcam,2,1200,0,Kavya Iyer
+ORD-0022,01-07-2023,CUST-7862,Meera Chawla,East,Ranchi,Laptops,Lenovo ThinkPad,1,56100,10,Sneha Reddy
+ORD-0023,01-07-2023,CUST-1655,Divya Shah,South,Chennai,Tablets,Lenovo Tab P11,1,33400,15,Rahul Sharma
+ORD-0024,01-08-2023,CUST-8896,Nisha Ghosh,East,Bhubaneswar,Wearables,Apple Watch Series 8,1,20500,10,Priya Patel
+ORD-0025,01-08-2023,CUST-3979,Pooja Desai,Central,Raipur,Laptops,Lenovo ThinkPad,2,67100,5,Anjali Gupta
+ORD-0026,01-09-2023,CUST-4723,Kunal Dixit,South,Chennai,Wearables,Mi Band 7,1,30200,10,Amit Kumar
+ORD-0027,01-09-2023,CUST-2454,Ishita Bansal,North,Chandigarh,Accessories,USB-C Cable,2,2500,0,Rahul Sharma
+ORD-0028,01-09-2023,CUST-3523,Aditya Rao,Central,Indore,Wearables,Apple Watch Series 8,1,24800,10,Kavya Iyer
+ORD-0029,01-09-2023,CUST-1014,Anjali Gupta,Central,Bhopal,Wearables,Mi Band 7,1,33200,5,Rohan Mehta
+ORD-0030,01-10-2023,CUST-1655,Divya Shah,East,Kolkata,Laptops,ASUS VivoBook,1,53600,15,Kavya Iyer
+ORD-0031,01-10-2023,CUST-9670,Priya Singh,Central,Bhopal,Wearables,Apple Watch Series 8,1,28000,0,Rahul Sharma
+ORD-0032,01-10-2023,CUST-3666,Manish Arora,North,Chandigarh,Accessories,Webcam,2,2100,15,Anjali Gupta
+ORD-0033,01-10-2023,CUST-3178,Ananya Bose,North,Jaipur,Accessories,Mechanical Keyboard,2,1800,0,Kavya Iyer
+ORD-0034,01-10-2023,CUST-9409,Mohit Saxena,Central,Raipur,Tablets,Lenovo Tab P11,1,23900,20,Anjali Gupta
+ORD-0035,01-10-2023,CUST-3523,Aditya Rao,South,Kochi,Accessories,Wireless Mouse,2,1700,10,Vikram Singh
+ORD-0036,01-11-2023,CUST-4921,Simran Kaur,North,Jaipur,Accessories,Wireless Mouse,2,2700,25,Rahul Sharma
+ORD-0037,01-11-2023,CUST-0051,Sneha Sharma,East,Kolkata,Wearables,Mi Band 7,1,26100,0,Anjali Gupta
+ORD-0038,01-12-2023,CUST-4996,Varun Chopra,South,Hyderabad,Accessories,Mechanical Keyboard,2,2000,25,Amit Kumar
+ORD-0039,01-12-2023,CUST-7920,Sakshi Rathore,East,Kolkata,Smartphones,Realme GT,1,35000,10,Amit Kumar
+ORD-0040,01-12-2023,CUST-3234,Nikhil Jain,South,Hyderabad,Laptops,ASUS VivoBook,1,55400,5,Priya Patel
+ORD-0041,02-01-2023,CUST-3234,Nikhil Jain,West,Surat,Laptops,Acer Aspire,1,70400,20,Anjali Gupta
+ORD-0042,02-01-2023,CUST-4996,Varun Chopra,South,Hyderabad,Tablets,Amazon Fire HD,2,44900,0,Rohan Mehta
+ORD-0043,02-01-2023,CUST-7644,Siddharth Tiwari,East,Patna,Wearables,Mi Band 7,2,26500,0,Kavya Iyer
+ORD-0044,02-02-2023,CUST-3585,Rahul Kapoor,East,Kolkata,Wearables,Fitbit Versa 4,1,29100,25,Rahul Sharma
+ORD-0045,02-02-2023,CUST-7145,Kavya Iyer,South,Kochi,Tablets,Amazon Fire HD,1,45600,10,Amit Kumar
+ORD-0046,02-03-2023,CUST-2255,Rajesh Kumar,South,Chennai,Laptops,Acer Aspire,2,57700,5,Kavya Iyer
+ORD-0047,02-04-2023,CUST-4723,Kunal Dixit,North,Chandigarh,Smartphones,OnePlus Nord,1,45200,5,Anjali Gupta
+ORD-0048,02-04-2023,CUST-3234,Nikhil Jain,West,Ahmedabad,Smartphones,Xiaomi 13,1,27100,5,Vikram Singh
+ORD-0049,02-04-2023,CUST-7145,Kavya Iyer,East,Kolkata,Laptops,HP Pavilion,2,56100,5,Amit Kumar
+ORD-0050,02-04-2023,CUST-4234,Sanjay Joshi,North,Delhi,Wearables,Fitbit Versa 4,1,19300,5,Vikram Singh
+ORD-0051,02-04-2023,CUST-8896,Nisha Ghosh,Central,Nagpur,Laptops,Dell Inspiron,1,62000,25,Anjali Gupta
+ORD-0052,02-04-2023,CUST-9646,Amit Patel,East,Kolkata,Wearables,Fitbit Versa 4,1,27000,5,Rahul Sharma
+ORD-0053,02-04-2023,CUST-4813,Swati Nambiar,West,Ahmedabad,Smartphones,OnePlus Nord,1,30200,25,Priya Patel
+ORD-0054,02-04-2023,CUST-1930,Ritika Menon,West,Pune,Laptops,Dell Inspiron,2,65800,5,Priya Patel
+ORD-0055,02-04-2023,CUST-7344,Rohan Mehta,North,Jaipur,Laptops,ASUS VivoBook,1,64200,5,Rahul Sharma
+ORD-0056,02-04-2023,CUST-9848,Karan Verma,South,Kochi,Laptops,Dell Inspiron,2,60000,5,Rohan Mehta
+ORD-0057,02-05-2023,CUST-6348,Shreya Pandey,Central,Nagpur,Accessories,Webcam,3,1600,25,Rahul Sharma
+ORD-0058,02-05-2023,CUST-5788,Neha Agarwal,East,Ranchi,Wearables,Samsung Galaxy Watch,1,35000,10,Kavya Iyer
+ORD-0059,02-06-2023,CUST-3234,Nikhil Jain,East,Bhubaneswar,Accessories,USB-C Cable,1,2100,15,Vikram Singh
+ORD-0060,02-07-2023,CUST-9670,Priya Singh,West,Mumbai,Tablets,Lenovo Tab P11,1,31100,0,Rohan Mehta
+ORD-0061,02-08-2023,CUST-8896,Nisha Ghosh,North,Delhi,Accessories,Webcam,1,2500,0,Rohan Mehta
+ORD-0062,02-08-2023,CUST-2605,Tanvi Kulkarni,South,Chennai,Accessories,USB-C Cable,1,2700,25,Kavya Iyer
+ORD-0063,02-08-2023,CUST-7920,Sakshi Rathore,West,Pune,Smartphones,iPhone 14,1,41200,5,Kavya Iyer
+ORD-0064,02-08-2023,CUST-9670,Priya Singh,North,Jaipur,Accessories,Wireless Mouse,3,1700,10,Vikram Singh
+ORD-0065,02-09-2023,CUST-5788,Neha Agarwal,Central,Bhopal,Wearables,Samsung Galaxy Watch,1,21600,10,Kavya Iyer
+ORD-0066,02-09-2023,CUST-4921,Simran Kaur,East,Bhubaneswar,Laptops,Lenovo ThinkPad,1,55200,10,Kavya Iyer
+ORD-0067,02-09-2023,CUST-7344,Rohan Mehta,North,Jaipur,Accessories,Wireless Mouse,2,1900,0,Anjali Gupta
+ORD-0068,02-09-2023,CUST-1014,Anjali Gupta,South,Hyderabad,Tablets,Lenovo Tab P11,1,25900,0,Sneha Reddy
+ORD-0069,02-11-2023,CUST-0908,Gaurav Bhatt,South,Chennai,Laptops,Lenovo ThinkPad,2,63200,0,Amit Kumar
+ORD-0070,02-11-2023,CUST-4996,Varun Chopra,Central,Bhopal,Wearables,Fitbit Versa 4,1,30500,0,Rohan Mehta
+ORD-0071,02-11-2023,CUST-7920,Sakshi Rathore,South,Bangalore,Tablets,iPad Air,1,31000,15,Anjali Gupta
+ORD-0072,02-11-2023,CUST-7862,Meera Chawla,Central,Bhopal,Smartphones,iPhone 14,1,26600,20,Rahul Sharma
+ORD-0073,02-12-2023,CUST-3174,Pallavi Krishnan,North,Jaipur,Accessories,Laptop Bag,2,1200,25,Kavya Iyer
+ORD-0074,02-12-2023,CUST-2454,Ishita Bansal,West,Surat,Accessories,Webcam,2,2100,15,Anjali Gupta
+ORD-0075,02-12-2023,CUST-7644,Siddharth Tiwari,West,Ahmedabad,Smartphones,iPhone 14,1,21600,5,Amit Kumar
+ORD-0076,02-12-2023,CUST-4234,Sanjay Joshi,Central,Raipur,Accessories,Mechanical Keyboard,2,2300,25,Anjali Gupta
+ORD-0077,02-12-2023,CUST-7920,Sakshi Rathore,North,Delhi,Accessories,Mechanical Keyboard,2,3000,0,Kavya Iyer
+ORD-0078,02-12-2023,CUST-7344,Rohan Mehta,North,Delhi,Accessories,USB-C Cable,3,1800,10,Rahul Sharma
+ORD-0079,02-12-2023,CUST-4723,Kunal Dixit,North,Jaipur,Tablets,Samsung Tab S8,1,45000,5,Anjali Gupta
+ORD-0080,03-01-2023,CUST-6348,Shreya Pandey,East,Bhubaneswar,Smartphones,Xiaomi 13,1,50900,5,Amit Kumar
+ORD-0081,03-01-2023,CUST-9848,Karan Verma,West,Ahmedabad,Smartphones,iPhone 14,1,29800,25,Kavya Iyer
+ORD-0082,03-01-2023,CUST-0208,Arjun Nair,East,Ranchi,Tablets,Amazon Fire HD,1,49700,10,Rahul Sharma
+ORD-0083,03-01-2023,CUST-7862,Meera Chawla,East,Kolkata,Wearables,Apple Watch Series 8,1,26200,10,Rahul Sharma
+ORD-0084,03-01-2023,CUST-9409,Mohit Saxena,East,Ranchi,Smartphones,Samsung Galaxy S23,1,23100,0,Rahul Sharma
+ORD-0085,03-01-2023,CUST-7920,Sakshi Rathore,North,Jaipur,Tablets,iPad Air,1,20800,10,Sneha Reddy
+ORD-0086,03-02-2023,CUST-4723,Kunal Dixit,East,Ranchi,Accessories,Webcam,2,1000,10,Priya Patel
+ORD-0087,03-02-2023,CUST-7862,Meera Chawla,South,Hyderabad,Smartphones,Xiaomi 13,1,21500,10,Amit Kumar
+ORD-0088,03-02-2023,CUST-9670,Priya Singh,East,Ranchi,Smartphones,Realme GT,2,36800,25,Amit Kumar
+ORD-0089,03-03-2023,CUST-3979,Pooja Desai,Central,Raipur,Tablets,iPad Air,1,50000,0,Rohan Mehta
+ORD-0090,03-03-2023,CUST-0208,Arjun Nair,West,Pune,Smartphones,iPhone 14,1,45900,5,Rahul Sharma
+ORD-0091,03-03-2023,CUST-4234,Sanjay Joshi,South,Hyderabad,Laptops,Acer Aspire,1,47900,0,Sneha Reddy
+ORD-0092,03-04-2023,CUST-7955,Riya Malhotra,Central,Indore,Wearables,Fitbit Versa 4,1,19000,0,Sneha Reddy
+ORD-0093,03-04-2023,CUST-3234,Nikhil Jain,Central,Raipur,Accessories,Wireless Mouse,2,2200,15,Rohan Mehta
+ORD-0094,03-05-2023,CUST-8941,Harsh Sinha,Central,Indore,Wearables,Fitbit Versa 4,2,32100,15,Priya Patel
+ORD-0095,03-05-2023,CUST-9409,Mohit Saxena,East,Ranchi,Smartphones,OnePlus Nord,1,46700,15,Priya Patel
+ORD-0096,03-06-2023,CUST-1014,Anjali Gupta,West,Ahmedabad,Tablets,Amazon Fire HD,1,23600,25,Sneha Reddy
+ORD-0097,03-06-2023,CUST-0051,Sneha Sharma,East,Kolkata,Accessories,Wireless Mouse,2,1100,0,Sneha Reddy
+ORD-0098,03-06-2023,CUST-1930,Ritika Menon,West,Mumbai,Tablets,Lenovo Tab P11,1,30900,5,Sneha Reddy
+ORD-0099,03-07-2023,CUST-1014,Anjali Gupta,Central,Bhopal,Tablets,Lenovo Tab P11,1,20000,25,Vikram Singh
+ORD-0100,03-07-2023,CUST-4559,Aarti Shetty,North,Chandigarh,Smartphones,iPhone 14,1,49900,10,Kavya Iyer
+ORD-0101,03-07-2023,CUST-0051,Sneha Sharma,South,Hyderabad,Laptops,HP Pavilion,1,64600,5,Amit Kumar
+ORD-0102,03-07-2023,CUST-8941,Harsh Sinha,West,Mumbai,Wearables,Fitbit Versa 4,1,11600,20,Sneha Reddy
+ORD-0103,03-08-2023,CUST-9646,Amit Patel,West,Mumbai,Smartphones,OnePlus Nord,1,32600,0,Sneha Reddy
+ORD-0104,03-08-2023,CUST-6769,Vikram Reddy,East,Kolkata,Tablets,Lenovo Tab P11,1,39100,20,Sneha Reddy
+ORD-0105,03-08-2023,CUST-8896,Nisha Ghosh,Central,Indore,Accessories,Mechanical Keyboard,2,2600,5,Kavya Iyer
+ORD-0106,03-09-2023,CUST-9409,Mohit Saxena,South,Chennai,Accessories,Mechanical Keyboard,2,2600,20,Vikram Singh
+ORD-0107,03-09-2023,CUST-4234,Sanjay Joshi,South,Hyderabad,Tablets,iPad Air,1,28100,5,Priya Patel
+ORD-0108,03-09-2023,CUST-9646,Amit Patel,South,Chennai,Accessories,Wireless Mouse,2,900,5,Amit Kumar
+ORD-0109,03-09-2023,CUST-4559,Aarti Shetty,North,Chandigarh,Accessories,Mechanical Keyboard,2,1900,0,Rahul Sharma
+ORD-0110,03-09-2023,CUST-9646,Amit Patel,Central,Indore,Smartphones,Xiaomi 13,2,31500,0,Vikram Singh
+ORD-0111,03-10-2023,CUST-3174,Pallavi Krishnan,East,Patna,Smartphones,Samsung Galaxy S23,1,38000,25,Sneha Reddy
+ORD-0112,03-10-2023,CUST-7145,Kavya Iyer,South,Chennai,Laptops,ASUS VivoBook,2,57200,20,Priya Patel
+ORD-0113,03-11-2023,CUST-2605,Tanvi Kulkarni,Central,Indore,Laptops,Lenovo ThinkPad,1,50200,10,Vikram Singh
+ORD-0114,03-11-2023,CUST-8941,Harsh Sinha,North,Delhi,Laptops,Acer Aspire,1,73000,0,Amit Kumar
+ORD-0115,03-11-2023,CUST-0908,Gaurav Bhatt,East,Ranchi,Wearables,Mi Band 7,1,12500,5,Priya Patel
+ORD-0116,03-11-2023,CUST-0208,Arjun Nair,North,Delhi,Smartphones,OnePlus Nord,1,40200,5,Vikram Singh
+ORD-0117,03-12-2023,CUST-7626,Akash Pillai,Central,Nagpur,Smartphones,Samsung Galaxy S23,1,42500,25,Sneha Reddy
+ORD-0118,03-12-2023,CUST-7862,Meera Chawla,West,Pune,Laptops,HP Pavilion,1,48200,10,Rohan Mehta
+ORD-0119,03-12-2023,CUST-6316,Sameer Dutta,Central,Nagpur,Wearables,Mi Band 7,1,12600,10,Sneha Reddy
+ORD-0120,03-12-2023,CUST-0208,Arjun Nair,East,Kolkata,Tablets,Amazon Fire HD,1,24800,0,Priya Patel
+ORD-0121,04-01-2023,CUST-1655,Divya Shah,South,Chennai,Wearables,Mi Band 7,1,26400,0,Rahul Sharma
+ORD-0122,04-02-2023,CUST-9409,Mohit Saxena,North,Chandigarh,Wearables,Mi Band 7,1,23900,20,Vikram Singh
+ORD-0123,04-02-2023,CUST-9670,Priya Singh,Central,Bhopal,Smartphones,OnePlus Nord,1,60000,0,Anjali Gupta
+ORD-0124,04-02-2023,CUST-6348,Shreya Pandey,South,Bangalore,Smartphones,Realme GT,1,40000,15,Rahul Sharma
+ORD-0125,04-02-2023,CUST-6769,Vikram Reddy,Central,Raipur,Accessories,Mechanical Keyboard,3,1600,10,Vikram Singh
+ORD-0126,04-03-2023,CUST-4234,Sanjay Joshi,South,Kochi,Accessories,Mechanical Keyboard,2,2000,0,Kavya Iyer
+ORD-0127,04-03-2023,CUST-3174,Pallavi Krishnan,South,Kochi,Accessories,USB-C Cable,2,1200,25,Vikram Singh
+ORD-0128,04-03-2023,CUST-3979,Pooja Desai,East,Patna,Wearables,Mi Band 7,1,26200,20,Sneha Reddy
+ORD-0129,04-03-2023,CUST-1014,Anjali Gupta,South,Bangalore,Accessories,Mechanical Keyboard,2,2300,15,Anjali Gupta
+ORD-0130,04-04-2023,CUST-7344,Rohan Mehta,Central,Nagpur,Wearables,Fitbit Versa 4,1,17500,25,Kavya Iyer
+ORD-0131,04-04-2023,CUST-9670,Priya Singh,West,Surat,Wearables,Fitbit Versa 4,1,23400,0,Sneha Reddy
+ORD-0132,04-04-2023,CUST-4559,Aarti Shetty,East,Ranchi,Smartphones,Samsung Galaxy S23,1,48500,15,Priya Patel
+ORD-0133,04-04-2023,CUST-9646,Amit Patel,South,Chennai,Smartphones,iPhone 14,1,49700,0,Anjali Gupta
+ORD-0134,04-04-2023,CUST-8896,Nisha Ghosh,North,Chandigarh,Tablets,Samsung Tab S8,1,32100,15,Priya Patel
+ORD-0135,04-05-2023,CUST-4813,Swati Nambiar,East,Bhubaneswar,Smartphones,iPhone 14,1,60000,5,Anjali Gupta
+ORD-0136,04-05-2023,CUST-7107,Yash Dhawan,North,Lucknow,Smartphones,Samsung Galaxy S23,2,57200,10,Anjali Gupta
+ORD-0137,04-06-2023,CUST-8941,Harsh Sinha,South,Kochi,Accessories,Wireless Mouse,2,1700,5,Anjali Gupta
+ORD-0138,04-07-2023,CUST-7955,Riya Malhotra,Central,Raipur,Tablets,iPad Air,1,32500,25,Rahul Sharma
+ORD-0139,04-08-2023,CUST-6316,Sameer Dutta,East,Patna,Tablets,Samsung Tab S8,1,31000,0,Vikram Singh
+ORD-0140,04-08-2023,CUST-6348,Shreya Pandey,Central,Bhopal,Laptops,ASUS VivoBook,1,51200,15,Priya Patel
+ORD-0141,04-09-2023,CUST-1930,Ritika Menon,East,Patna,Accessories,Webcam,2,2000,5,Amit Kumar
+ORD-0142,04-09-2023,CUST-2255,Rajesh Kumar,South,Kochi,Laptops,HP Pavilion,1,44000,10,Rohan Mehta
+ORD-0143,04-10-2023,CUST-9409,Mohit Saxena,North,Chandigarh,Wearables,Fitbit Versa 4,1,29400,5,Anjali Gupta
+ORD-0144,04-10-2023,CUST-3585,Rahul Kapoor,South,Bangalore,Smartphones,Realme GT,1,60000,5,Anjali Gupta
+ORD-0145,04-10-2023,CUST-9670,Priya Singh,Central,Bhopal,Wearables,Samsung Galaxy Watch,1,10300,15,Priya Patel
+ORD-0146,04-11-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Laptops,Lenovo ThinkPad,1,63100,0,Priya Patel
+ORD-0147,04-11-2023,CUST-4723,Kunal Dixit,South,Hyderabad,Smartphones,Xiaomi 13,1,32200,0,Amit Kumar
+ORD-0148,05-01-2023,CUST-7626,Akash Pillai,West,Mumbai,Laptops,Acer Aspire,1,54100,5,Vikram Singh
+ORD-0149,05-02-2023,CUST-0208,Arjun Nair,West,Mumbai,Tablets,Amazon Fire HD,1,32400,0,Rohan Mehta
+ORD-0150,05-02-2023,CUST-7344,Rohan Mehta,West,Ahmedabad,Smartphones,Samsung Galaxy S23,1,47600,15,Rohan Mehta
+ORD-0151,05-03-2023,CUST-3234,Nikhil Jain,Central,Indore,Wearables,Fitbit Versa 4,1,23200,0,Rahul Sharma
+ORD-0152,05-03-2023,CUST-4559,Aarti Shetty,North,Delhi,Wearables,Mi Band 7,1,15900,20,Priya Patel
+ORD-0153,05-03-2023,CUST-4234,Sanjay Joshi,South,Kochi,Accessories,Wireless Mouse,2,1300,10,Amit Kumar
+ORD-0154,05-04-2023,CUST-3666,Manish Arora,South,Hyderabad,Smartphones,Samsung Galaxy S23,1,39900,0,Rahul Sharma
+ORD-0155,05-04-2023,CUST-6769,Vikram Reddy,North,Lucknow,Wearables,Fitbit Versa 4,1,25500,10,Rohan Mehta
+ORD-0156,05-05-2023,CUST-8896,Nisha Ghosh,West,Surat,Smartphones,Samsung Galaxy S23,1,44400,0,Anjali Gupta
+ORD-0157,05-05-2023,CUST-8941,Harsh Sinha,Central,Bhopal,Smartphones,Samsung Galaxy S23,1,48600,25,Amit Kumar
+ORD-0158,05-05-2023,CUST-0908,Gaurav Bhatt,East,Ranchi,Accessories,Webcam,1,2800,0,Priya Patel
+ORD-0159,05-05-2023,CUST-4723,Kunal Dixit,North,Jaipur,Smartphones,Samsung Galaxy S23,1,27300,0,Anjali Gupta
+ORD-0160,05-07-2023,CUST-6348,Shreya Pandey,West,Mumbai,Wearables,Fitbit Versa 4,1,21900,15,Anjali Gupta
+ORD-0161,05-07-2023,CUST-7644,Siddharth Tiwari,Central,Nagpur,Laptops,ASUS VivoBook,2,63600,20,Vikram Singh
+ORD-0162,05-07-2023,CUST-1014,Anjali Gupta,East,Bhubaneswar,Laptops,HP Pavilion,1,59700,25,Priya Patel
+ORD-0163,05-07-2023,CUST-4921,Simran Kaur,Central,Indore,Laptops,HP Pavilion,1,48600,0,Kavya Iyer
+ORD-0164,05-07-2023,CUST-0051,Sneha Sharma,South,Chennai,Wearables,Mi Band 7,1,24800,0,Priya Patel
+ORD-0165,05-08-2023,CUST-3178,Ananya Bose,West,Surat,Laptops,Dell Inspiron,2,68000,0,Anjali Gupta
+ORD-0166,05-08-2023,CUST-3523,Aditya Rao,North,Chandigarh,Smartphones,iPhone 14,1,60000,25,Anjali Gupta
+ORD-0167,05-08-2023,CUST-7862,Meera Chawla,West,Ahmedabad,Accessories,USB-C Cable,3,1100,5,Vikram Singh
+ORD-0168,05-08-2023,CUST-1930,Ritika Menon,North,Delhi,Smartphones,iPhone 14,1,49500,15,Kavya Iyer
+ORD-0169,05-08-2023,CUST-9670,Priya Singh,North,Jaipur,Smartphones,OnePlus Nord,1,46300,0,Vikram Singh
+ORD-0170,05-08-2023,CUST-7644,Siddharth Tiwari,East,Kolkata,Wearables,Fitbit Versa 4,1,24300,15,Priya Patel
+ORD-0171,05-09-2023,CUST-6769,Vikram Reddy,East,Kolkata,Smartphones,Xiaomi 13,1,23700,5,Vikram Singh
+ORD-0172,05-09-2023,CUST-3585,Rahul Kapoor,East,Patna,Laptops,HP Pavilion,1,62900,5,Anjali Gupta
+ORD-0173,05-09-2023,CUST-8941,Harsh Sinha,West,Pune,Accessories,Webcam,2,1900,0,Sneha Reddy
+ORD-0174,05-10-2023,CUST-4234,Sanjay Joshi,South,Chennai,Smartphones,Realme GT,1,34700,20,Amit Kumar
+ORD-0175,05-10-2023,CUST-0051,Sneha Sharma,East,Bhubaneswar,Accessories,Wireless Mouse,2,2000,0,Sneha Reddy
+ORD-0176,05-11-2023,CUST-0908,Gaurav Bhatt,North,Jaipur,Accessories,USB-C Cable,2,500,0,Kavya Iyer
+ORD-0177,05-11-2023,CUST-9409,Mohit Saxena,South,Kochi,Tablets,Samsung Tab S8,1,46300,10,Vikram Singh
+ORD-0178,05-11-2023,CUST-3979,Pooja Desai,Central,Nagpur,Wearables,Samsung Galaxy Watch,1,25000,20,Sneha Reddy
+ORD-0179,05-11-2023,CUST-2605,Tanvi Kulkarni,South,Bangalore,Wearables,Mi Band 7,1,26500,0,Sneha Reddy
+ORD-0180,05-12-2023,CUST-0908,Gaurav Bhatt,East,Kolkata,Smartphones,Xiaomi 13,1,33800,25,Kavya Iyer
+ORD-0181,05-12-2023,CUST-1930,Ritika Menon,South,Hyderabad,Accessories,Wireless Mouse,3,2400,10,Priya Patel
+ORD-0182,06-01-2023,CUST-4559,Aarti Shetty,North,Lucknow,Smartphones,Realme GT,1,43000,20,Sneha Reddy
+ORD-0183,06-02-2023,CUST-1655,Divya Shah,Central,Nagpur,Accessories,Wireless Mouse,2,1700,15,Rahul Sharma
+ORD-0184,06-02-2023,CUST-6769,Vikram Reddy,North,Jaipur,Laptops,Dell Inspiron,1,37700,10,Sneha Reddy
+ORD-0185,06-02-2023,CUST-9409,Mohit Saxena,North,Jaipur,Tablets,Samsung Tab S8,1,25900,10,Vikram Singh
+ORD-0186,06-02-2023,CUST-7344,Rohan Mehta,East,Kolkata,Smartphones,Realme GT,1,34100,0,Sneha Reddy
+ORD-0187,06-03-2023,CUST-3234,Nikhil Jain,East,Kolkata,Accessories,Laptop Bag,3,1800,20,Amit Kumar
+ORD-0188,06-03-2023,CUST-4996,Varun Chopra,East,Patna,Accessories,Webcam,2,1600,20,Kavya Iyer
+ORD-0189,06-03-2023,CUST-4234,Sanjay Joshi,West,Pune,Tablets,Lenovo Tab P11,1,39200,15,Rahul Sharma
+ORD-0190,06-04-2023,CUST-6316,Sameer Dutta,East,Kolkata,Laptops,Lenovo ThinkPad,1,53200,25,Priya Patel
+ORD-0191,06-05-2023,CUST-5788,Neha Agarwal,Central,Raipur,Wearables,Fitbit Versa 4,2,29000,0,Priya Patel
+ORD-0192,06-05-2023,CUST-0051,Sneha Sharma,West,Mumbai,Wearables,Samsung Galaxy Watch,1,20700,25,Anjali Gupta
+ORD-0193,06-05-2023,CUST-7920,Sakshi Rathore,Central,Raipur,Laptops,Acer Aspire,1,66700,10,Rahul Sharma
+ORD-0194,06-05-2023,CUST-3666,Manish Arora,North,Lucknow,Accessories,Mechanical Keyboard,2,2900,15,Rohan Mehta
+ORD-0195,06-06-2023,CUST-1655,Divya Shah,South,Hyderabad,Smartphones,Xiaomi 13,1,59000,20,Amit Kumar
+ORD-0196,06-08-2023,CUST-4996,Varun Chopra,South,Hyderabad,Accessories,Mechanical Keyboard,2,1700,0,Rohan Mehta
+ORD-0197,06-08-2023,CUST-7955,Riya Malhotra,South,Kochi,Tablets,Lenovo Tab P11,1,47300,10,Kavya Iyer
+ORD-0198,06-08-2023,CUST-6769,Vikram Reddy,North,Jaipur,Smartphones,OnePlus Nord,1,26900,0,Rahul Sharma
+ORD-0199,06-08-2023,CUST-7145,Kavya Iyer,South,Chennai,Accessories,Wireless Mouse,3,1700,10,Kavya Iyer
+ORD-0200,06-09-2023,CUST-4996,Varun Chopra,South,Chennai,Smartphones,iPhone 14,1,39200,0,Priya Patel
+ORD-0201,06-09-2023,CUST-9848,Karan Verma,North,Jaipur,Smartphones,Xiaomi 13,1,39400,20,Vikram Singh
+ORD-0202,06-10-2023,CUST-4921,Simran Kaur,North,Lucknow,Wearables,Apple Watch Series 8,1,30400,0,Anjali Gupta
+ORD-0203,06-10-2023,CUST-8896,Nisha Ghosh,East,Kolkata,Accessories,Webcam,1,2200,5,Priya Patel
+ORD-0204,06-10-2023,CUST-0208,Arjun Nair,East,Kolkata,Wearables,Samsung Galaxy Watch,1,24700,0,Vikram Singh
+ORD-0205,06-11-2023,CUST-4723,Kunal Dixit,South,Chennai,Wearables,Fitbit Versa 4,1,19800,0,Kavya Iyer
+ORD-0206,06-12-2023,CUST-3234,Nikhil Jain,Central,Nagpur,Accessories,Webcam,2,2700,20,Rohan Mehta
+ORD-0207,06-12-2023,CUST-6348,Shreya Pandey,North,Jaipur,Tablets,Amazon Fire HD,1,35000,5,Priya Patel
+ORD-0208,06-12-2023,CUST-3523,Aditya Rao,West,Mumbai,Accessories,Wireless Mouse,2,1800,10,Anjali Gupta
+ORD-0209,07-01-2023,CUST-6348,Shreya Pandey,North,Jaipur,Smartphones,iPhone 14,1,27200,10,Priya Patel
+ORD-0210,07-01-2023,CUST-6348,Shreya Pandey,East,Bhubaneswar,Wearables,Mi Band 7,1,29800,5,Sneha Reddy
+ORD-0211,07-01-2023,CUST-7626,Akash Pillai,North,Lucknow,Wearables,Samsung Galaxy Watch,2,30900,0,Rohan Mehta
+ORD-0212,07-02-2023,CUST-3979,Pooja Desai,West,Surat,Laptops,ASUS VivoBook,1,53400,0,Kavya Iyer
+ORD-0213,07-02-2023,CUST-3585,Rahul Kapoor,North,Jaipur,Tablets,iPad Air,1,34400,25,Vikram Singh
+ORD-0214,07-02-2023,CUST-3523,Aditya Rao,West,Ahmedabad,Wearables,Samsung Galaxy Watch,1,27300,10,Kavya Iyer
+ORD-0215,07-03-2023,CUST-4559,Aarti Shetty,East,Kolkata,Tablets,iPad Air,2,31600,0,Anjali Gupta
+ORD-0216,07-03-2023,CUST-0051,Sneha Sharma,North,Lucknow,Laptops,Dell Inspiron,1,60100,15,Amit Kumar
+ORD-0217,07-03-2023,CUST-8941,Harsh Sinha,East,Patna,Wearables,Apple Watch Series 8,1,21200,10,Priya Patel
+ORD-0218,07-04-2023,CUST-9670,Priya Singh,East,Kolkata,Smartphones,Samsung Galaxy S23,1,15000,20,Amit Kumar
+ORD-0219,07-04-2023,CUST-0208,Arjun Nair,South,Kochi,Laptops,HP Pavilion,1,57000,5,Sneha Reddy
+ORD-0220,07-05-2023,CUST-6348,Shreya Pandey,Central,Bhopal,Wearables,Mi Band 7,1,19800,20,Priya Patel
+ORD-0221,07-05-2023,CUST-1655,Divya Shah,East,Ranchi,Wearables,Fitbit Versa 4,1,24500,25,Rahul Sharma
+ORD-0222,07-06-2023,CUST-7145,Kavya Iyer,South,Chennai,Smartphones,Samsung Galaxy S23,1,21100,10,Priya Patel
+ORD-0223,07-06-2023,CUST-1930,Ritika Menon,East,Kolkata,Tablets,Amazon Fire HD,1,44500,0,Sneha Reddy
+ORD-0224,07-06-2023,CUST-7644,Siddharth Tiwari,West,Mumbai,Smartphones,Xiaomi 13,1,43100,10,Vikram Singh
+ORD-0225,07-07-2023,CUST-2605,Tanvi Kulkarni,South,Bangalore,Wearables,Fitbit Versa 4,1,25600,0,Sneha Reddy
+ORD-0226,07-07-2023,CUST-3234,Nikhil Jain,Central,Indore,Accessories,Wireless Mouse,3,1800,0,Rohan Mehta
+ORD-0227,07-08-2023,CUST-5788,Neha Agarwal,Central,Nagpur,Laptops,ASUS VivoBook,1,48500,0,Amit Kumar
+ORD-0228,07-08-2023,CUST-0051,Sneha Sharma,East,Patna,Smartphones,Samsung Galaxy S23,1,26800,5,Rohan Mehta
+ORD-0229,07-08-2023,CUST-3234,Nikhil Jain,East,Ranchi,Tablets,iPad Air,1,36800,5,Anjali Gupta
+ORD-0230,07-08-2023,CUST-4813,Swati Nambiar,Central,Nagpur,Tablets,Lenovo Tab P11,1,38300,0,Kavya Iyer
+ORD-0231,07-09-2023,CUST-9848,Karan Verma,West,Mumbai,Wearables,Fitbit Versa 4,1,13500,15,Sneha Reddy
+ORD-0232,07-11-2023,CUST-3178,Ananya Bose,Central,Indore,Tablets,Lenovo Tab P11,1,39200,0,Vikram Singh
+ORD-0233,07-11-2023,CUST-3979,Pooja Desai,West,Pune,Laptops,Dell Inspiron,1,53500,10,Sneha Reddy
+ORD-0234,07-11-2023,CUST-9646,Amit Patel,North,Jaipur,Accessories,Webcam,3,2100,25,Priya Patel
+ORD-0235,07-11-2023,CUST-7644,Siddharth Tiwari,Central,Indore,Wearables,Mi Band 7,1,24900,15,Vikram Singh
+ORD-0236,07-11-2023,CUST-3585,Rahul Kapoor,West,Ahmedabad,Smartphones,Realme GT,1,23500,10,Sneha Reddy
+ORD-0237,07-11-2023,CUST-7862,Meera Chawla,North,Delhi,Smartphones,Xiaomi 13,1,54300,0,Rahul Sharma
+ORD-0238,07-12-2023,CUST-7107,Yash Dhawan,East,Patna,Smartphones,OnePlus Nord,1,58200,15,Amit Kumar
+ORD-0239,07-12-2023,CUST-2454,Ishita Bansal,East,Patna,Laptops,Lenovo ThinkPad,1,57200,20,Rohan Mehta
+ORD-0240,08-01-2023,CUST-4813,Swati Nambiar,East,Patna,Wearables,Fitbit Versa 4,1,31500,0,Rohan Mehta
+ORD-0241,08-01-2023,CUST-9670,Priya Singh,East,Kolkata,Tablets,Amazon Fire HD,1,37200,15,Anjali Gupta
+ORD-0242,08-01-2023,CUST-3585,Rahul Kapoor,Central,Raipur,Accessories,Laptop Bag,1,1400,0,Sneha Reddy
+ORD-0243,08-03-2023,CUST-1655,Divya Shah,East,Bhubaneswar,Tablets,iPad Air,1,23600,0,Amit Kumar
+ORD-0244,08-04-2023,CUST-9848,Karan Verma,East,Patna,Wearables,Apple Watch Series 8,1,33900,5,Anjali Gupta
+ORD-0245,08-04-2023,CUST-7145,Kavya Iyer,East,Kolkata,Accessories,Wireless Mouse,3,1500,25,Kavya Iyer
+ORD-0246,08-04-2023,CUST-7862,Meera Chawla,East,Ranchi,Accessories,USB-C Cable,2,1400,5,Amit Kumar
+ORD-0247,08-04-2023,CUST-9670,Priya Singh,North,Chandigarh,Laptops,HP Pavilion,1,52000,25,Rahul Sharma
+ORD-0248,08-04-2023,CUST-8896,Nisha Ghosh,East,Patna,Accessories,Laptop Bag,2,1400,0,Sneha Reddy
+ORD-0249,08-04-2023,CUST-4996,Varun Chopra,Central,Raipur,Wearables,Fitbit Versa 4,1,10200,25,Anjali Gupta
+ORD-0250,08-05-2023,CUST-1655,Divya Shah,South,Hyderabad,Smartphones,Xiaomi 13,1,42800,15,Vikram Singh
+ORD-0251,08-05-2023,CUST-9848,Karan Verma,South,Hyderabad,Wearables,Samsung Galaxy Watch,1,13600,5,Kavya Iyer
+ORD-0252,08-05-2023,CUST-8941,Harsh Sinha,North,Delhi,Smartphones,Xiaomi 13,1,26900,20,Priya Patel
+ORD-0253,08-06-2023,CUST-9848,Karan Verma,Central,Indore,Accessories,Mechanical Keyboard,3,2100,25,Anjali Gupta
+ORD-0254,08-06-2023,CUST-4996,Varun Chopra,West,Surat,Laptops,Dell Inspiron,1,53000,10,Priya Patel
+ORD-0255,08-06-2023,CUST-1014,Anjali Gupta,Central,Raipur,Tablets,Samsung Tab S8,1,30500,20,Rohan Mehta
+ORD-0256,08-07-2023,CUST-6769,Vikram Reddy,East,Bhubaneswar,Accessories,Mechanical Keyboard,2,2200,0,Rahul Sharma
+ORD-0257,08-08-2023,CUST-4921,Simran Kaur,East,Patna,Accessories,USB-C Cable,2,600,0,Sneha Reddy
+ORD-0258,08-08-2023,CUST-4921,Simran Kaur,East,Bhubaneswar,Smartphones,OnePlus Nord,1,29600,0,Vikram Singh
+ORD-0259,08-09-2023,CUST-7107,Yash Dhawan,West,Mumbai,Wearables,Samsung Galaxy Watch,1,27800,15,Kavya Iyer
+ORD-0260,08-09-2023,CUST-6348,Shreya Pandey,East,Kolkata,Wearables,Mi Band 7,1,23400,0,Rohan Mehta
+ORD-0261,08-09-2023,CUST-4813,Swati Nambiar,East,Bhubaneswar,Smartphones,OnePlus Nord,1,42000,15,Rahul Sharma
+ORD-0262,08-09-2023,CUST-6316,Sameer Dutta,West,Surat,Accessories,USB-C Cable,2,1800,25,Rohan Mehta
+ORD-0263,08-09-2023,CUST-8896,Nisha Ghosh,North,Chandigarh,Tablets,Amazon Fire HD,1,28800,0,Amit Kumar
+ORD-0264,08-10-2023,CUST-0051,Sneha Sharma,East,Bhubaneswar,Laptops,HP Pavilion,1,37700,0,Anjali Gupta
+ORD-0265,08-11-2023,CUST-2605,Tanvi Kulkarni,East,Kolkata,Smartphones,OnePlus Nord,1,46400,5,Anjali Gupta
+ORD-0266,08-11-2023,CUST-7955,Riya Malhotra,South,Chennai,Smartphones,Xiaomi 13,1,21600,10,Sneha Reddy
+ORD-0267,08-12-2023,CUST-9848,Karan Verma,East,Kolkata,Wearables,Samsung Galaxy Watch,1,25600,5,Amit Kumar
+ORD-0268,08-12-2023,CUST-9848,Karan Verma,South,Bangalore,Laptops,HP Pavilion,1,69700,0,Kavya Iyer
+ORD-0269,09-01-2023,CUST-3178,Ananya Bose,North,Lucknow,Laptops,Lenovo ThinkPad,1,48000,0,Priya Patel
+ORD-0270,09-01-2023,CUST-3174,Pallavi Krishnan,West,Ahmedabad,Smartphones,Xiaomi 13,1,32200,25,Rahul Sharma
+ORD-0271,09-01-2023,CUST-7644,Siddharth Tiwari,West,Ahmedabad,Tablets,Lenovo Tab P11,1,34400,0,Anjali Gupta
+ORD-0272,09-01-2023,CUST-1014,Anjali Gupta,West,Mumbai,Laptops,Dell Inspiron,2,80000,0,Vikram Singh
+ORD-0273,09-02-2023,CUST-7107,Yash Dhawan,East,Bhubaneswar,Tablets,Lenovo Tab P11,1,38600,10,Priya Patel
+ORD-0274,09-02-2023,CUST-9848,Karan Verma,Central,Nagpur,Smartphones,iPhone 14,2,28000,0,Anjali Gupta
+ORD-0275,09-02-2023,CUST-1930,Ritika Menon,Central,Raipur,Accessories,Mechanical Keyboard,2,2000,5,Kavya Iyer
+ORD-0276,09-03-2023,CUST-4723,Kunal Dixit,North,Delhi,Smartphones,Realme GT,1,60000,20,Amit Kumar
+ORD-0277,09-03-2023,CUST-9848,Karan Verma,East,Kolkata,Smartphones,OnePlus Nord,1,15100,5,Kavya Iyer
+ORD-0278,09-03-2023,CUST-3523,Aditya Rao,North,Lucknow,Wearables,Mi Band 7,1,21800,0,Priya Patel
+ORD-0279,09-03-2023,CUST-4559,Aarti Shetty,North,Jaipur,Accessories,Laptop Bag,3,2500,20,Rohan Mehta
+ORD-0280,09-03-2023,CUST-3666,Manish Arora,South,Bangalore,Wearables,Samsung Galaxy Watch,1,24200,25,Sneha Reddy
+ORD-0281,09-03-2023,CUST-2454,Ishita Bansal,South,Bangalore,Smartphones,OnePlus Nord,1,36400,25,Vikram Singh
+ORD-0282,09-03-2023,CUST-9409,Mohit Saxena,Central,Indore,Laptops,Dell Inspiron,1,47300,10,Kavya Iyer
+ORD-0283,09-04-2023,CUST-3979,Pooja Desai,East,Bhubaneswar,Wearables,Apple Watch Series 8,1,17500,0,Kavya Iyer
+ORD-0284,09-04-2023,CUST-6316,Sameer Dutta,North,Delhi,Wearables,Apple Watch Series 8,1,17900,0,Sneha Reddy
+ORD-0285,09-04-2023,CUST-0051,Sneha Sharma,South,Bangalore,Smartphones,Samsung Galaxy S23,1,58700,15,Anjali Gupta
+ORD-0286,09-04-2023,CUST-7626,Akash Pillai,North,Delhi,Wearables,Samsung Galaxy Watch,1,30700,20,Sneha Reddy
+ORD-0287,09-05-2023,CUST-7920,Sakshi Rathore,Central,Raipur,Wearables,Fitbit Versa 4,1,27600,0,Amit Kumar
+ORD-0288,09-05-2023,CUST-7644,Siddharth Tiwari,East,Bhubaneswar,Laptops,Dell Inspiron,1,70700,0,Anjali Gupta
+ORD-0289,09-06-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Wearables,Apple Watch Series 8,1,21700,15,Amit Kumar
+ORD-0290,09-06-2023,CUST-4234,Sanjay Joshi,North,Delhi,Tablets,Amazon Fire HD,2,38600,10,Priya Patel
+ORD-0291,09-06-2023,CUST-3585,Rahul Kapoor,Central,Bhopal,Wearables,Mi Band 7,1,15800,0,Priya Patel
+ORD-0292,09-07-2023,CUST-8941,Harsh Sinha,South,Bangalore,Smartphones,Realme GT,1,45400,10,Kavya Iyer
+ORD-0293,09-07-2023,CUST-3234,Nikhil Jain,Central,Raipur,Tablets,Lenovo Tab P11,1,23200,25,Rohan Mehta
+ORD-0294,09-07-2023,CUST-3234,Nikhil Jain,North,Chandigarh,Smartphones,Xiaomi 13,1,40700,10,Priya Patel
+ORD-0295,09-07-2023,CUST-7862,Meera Chawla,South,Kochi,Laptops,Lenovo ThinkPad,2,48300,15,Vikram Singh
+ORD-0296,09-07-2023,CUST-1655,Divya Shah,East,Patna,Wearables,Apple Watch Series 8,1,18300,0,Amit Kumar
+ORD-0297,09-07-2023,CUST-7145,Kavya Iyer,Central,Bhopal,Tablets,Samsung Tab S8,1,27800,15,Vikram Singh
+ORD-0298,09-08-2023,CUST-6348,Shreya Pandey,East,Kolkata,Laptops,ASUS VivoBook,1,69200,10,Anjali Gupta
+ORD-0299,09-09-2023,CUST-1655,Divya Shah,South,Kochi,Smartphones,Xiaomi 13,1,34700,0,Rohan Mehta
+ORD-0300,09-09-2023,CUST-0051,Sneha Sharma,South,Kochi,Laptops,HP Pavilion,2,58600,0,Sneha Reddy
+ORD-0301,09-10-2023,CUST-3523,Aditya Rao,East,Patna,Accessories,USB-C Cable,2,3000,5,Sneha Reddy
+ORD-0302,09-10-2023,CUST-7344,Rohan Mehta,West,Mumbai,Tablets,iPad Air,1,38700,5,Sneha Reddy
+ORD-0303,09-11-2023,CUST-2454,Ishita Bansal,West,Pune,Smartphones,OnePlus Nord,1,46000,20,Sneha Reddy
+ORD-0304,09-11-2023,CUST-6316,Sameer Dutta,South,Bangalore,Laptops,Dell Inspiron,2,45500,15,Sneha Reddy
+ORD-0305,09-11-2023,CUST-4813,Swati Nambiar,West,Mumbai,Tablets,Lenovo Tab P11,1,39500,15,Amit Kumar
+ORD-0306,09-11-2023,CUST-0908,Gaurav Bhatt,West,Ahmedabad,Wearables,Apple Watch Series 8,1,23700,0,Kavya Iyer
+ORD-0307,09-11-2023,CUST-3585,Rahul Kapoor,West,Pune,Accessories,Webcam,1,1400,0,Kavya Iyer
+ORD-0308,09-11-2023,CUST-4723,Kunal Dixit,South,Kochi,Tablets,Samsung Tab S8,1,35900,0,Kavya Iyer
+ORD-0309,10-01-2023,CUST-9646,Amit Patel,West,Surat,Laptops,HP Pavilion,1,49000,0,Rahul Sharma
+ORD-0310,10-01-2023,CUST-0208,Arjun Nair,North,Jaipur,Smartphones,OnePlus Nord,1,15000,5,Priya Patel
+ORD-0311,10-02-2023,CUST-7920,Sakshi Rathore,Central,Bhopal,Accessories,Laptop Bag,2,900,25,Vikram Singh
+ORD-0312,10-02-2023,CUST-4234,Sanjay Joshi,Central,Nagpur,Wearables,Samsung Galaxy Watch,1,10500,25,Priya Patel
+ORD-0313,10-04-2023,CUST-3178,Ananya Bose,West,Ahmedabad,Wearables,Apple Watch Series 8,1,29800,10,Amit Kumar
+ORD-0314,10-04-2023,CUST-5788,Neha Agarwal,East,Ranchi,Smartphones,Samsung Galaxy S23,1,41400,0,Priya Patel
+ORD-0315,10-06-2023,CUST-3523,Aditya Rao,West,Mumbai,Accessories,Webcam,3,1900,5,Rahul Sharma
+ORD-0316,10-06-2023,CUST-1014,Anjali Gupta,Central,Nagpur,Laptops,ASUS VivoBook,1,55100,10,Rohan Mehta
+ORD-0317,10-06-2023,CUST-8896,Nisha Ghosh,North,Jaipur,Accessories,USB-C Cable,3,800,10,Vikram Singh
+ORD-0318,10-06-2023,CUST-3234,Nikhil Jain,South,Kochi,Wearables,Samsung Galaxy Watch,1,16400,20,Vikram Singh
+ORD-0319,10-06-2023,CUST-7626,Akash Pillai,West,Pune,Accessories,Mechanical Keyboard,2,1200,10,Kavya Iyer
+ORD-0320,10-06-2023,CUST-7862,Meera Chawla,West,Mumbai,Wearables,Apple Watch Series 8,1,20800,15,Rahul Sharma
+ORD-0321,10-06-2023,CUST-0908,Gaurav Bhatt,West,Ahmedabad,Tablets,Lenovo Tab P11,1,35200,0,Priya Patel
+ORD-0322,10-07-2023,CUST-8896,Nisha Ghosh,South,Bangalore,Accessories,USB-C Cable,2,900,5,Priya Patel
+ORD-0323,10-07-2023,CUST-5788,Neha Agarwal,West,Ahmedabad,Smartphones,Realme GT,1,60000,5,Priya Patel
+ORD-0324,10-07-2023,CUST-0051,Sneha Sharma,East,Patna,Accessories,Wireless Mouse,2,2200,15,Priya Patel
+ORD-0325,10-07-2023,CUST-0051,Sneha Sharma,West,Mumbai,Tablets,iPad Air,1,34300,0,Vikram Singh
+ORD-0326,10-08-2023,CUST-4921,Simran Kaur,South,Kochi,Laptops,Acer Aspire,1,54400,5,Priya Patel
+ORD-0327,10-08-2023,CUST-7344,Rohan Mehta,Central,Nagpur,Tablets,Lenovo Tab P11,1,20000,5,Vikram Singh
+ORD-0328,10-10-2023,CUST-0208,Arjun Nair,North,Jaipur,Wearables,Apple Watch Series 8,1,15300,5,Sneha Reddy
+ORD-0329,10-10-2023,CUST-8896,Nisha Ghosh,North,Delhi,Wearables,Apple Watch Series 8,1,20100,20,Rohan Mehta
+ORD-0330,10-10-2023,CUST-3585,Rahul Kapoor,South,Hyderabad,Wearables,Mi Band 7,1,20600,15,Rohan Mehta
+ORD-0331,10-10-2023,CUST-0051,Sneha Sharma,Central,Indore,Smartphones,Xiaomi 13,1,39900,20,Priya Patel
+ORD-0332,10-11-2023,CUST-4559,Aarti Shetty,North,Lucknow,Tablets,Amazon Fire HD,1,32800,0,Sneha Reddy
+ORD-0333,10-11-2023,CUST-6316,Sameer Dutta,North,Delhi,Wearables,Apple Watch Series 8,1,25000,15,Vikram Singh
+ORD-0334,10-12-2023,CUST-7344,Rohan Mehta,Central,Raipur,Wearables,Fitbit Versa 4,2,10300,10,Kavya Iyer
+ORD-0335,10-12-2023,CUST-4921,Simran Kaur,East,Ranchi,Wearables,Mi Band 7,1,18000,0,Sneha Reddy
+ORD-0336,11-01-2023,CUST-3178,Ananya Bose,West,Pune,Smartphones,OnePlus Nord,1,27600,25,Rahul Sharma
+ORD-0337,11-01-2023,CUST-9848,Karan Verma,East,Patna,Laptops,Dell Inspiron,1,69200,10,Rohan Mehta
+ORD-0338,11-01-2023,CUST-3666,Manish Arora,Central,Nagpur,Laptops,ASUS VivoBook,1,45900,10,Rohan Mehta
+ORD-0339,11-02-2023,CUST-0208,Arjun Nair,Central,Indore,Tablets,Lenovo Tab P11,2,28900,10,Priya Patel
+ORD-0340,11-02-2023,CUST-9646,Amit Patel,West,Ahmedabad,Smartphones,iPhone 14,1,30000,20,Rohan Mehta
+ORD-0341,11-02-2023,CUST-2255,Rajesh Kumar,West,Surat,Accessories,USB-C Cable,2,1300,25,Anjali Gupta
+ORD-0342,11-03-2023,CUST-2255,Rajesh Kumar,West,Ahmedabad,Smartphones,OnePlus Nord,1,25800,10,Amit Kumar
+ORD-0343,11-05-2023,CUST-6348,Shreya Pandey,West,Mumbai,Accessories,USB-C Cable,2,1000,5,Anjali Gupta
+ORD-0344,11-05-2023,CUST-3979,Pooja Desai,Central,Indore,Smartphones,Samsung Galaxy S23,1,49300,10,Kavya Iyer
+ORD-0345,11-05-2023,CUST-7145,Kavya Iyer,North,Lucknow,Tablets,Lenovo Tab P11,1,38100,0,Anjali Gupta
+ORD-0346,11-06-2023,CUST-9409,Mohit Saxena,South,Bangalore,Accessories,USB-C Cable,2,900,0,Rahul Sharma
+ORD-0347,11-07-2023,CUST-7107,Yash Dhawan,West,Surat,Accessories,Laptop Bag,2,2800,0,Amit Kumar
+ORD-0348,11-07-2023,CUST-0051,Sneha Sharma,Central,Bhopal,Tablets,Samsung Tab S8,1,28700,25,Amit Kumar
+ORD-0349,11-07-2023,CUST-9670,Priya Singh,North,Jaipur,Laptops,ASUS VivoBook,1,59600,20,Kavya Iyer
+ORD-0350,11-08-2023,CUST-7344,Rohan Mehta,East,Patna,Wearables,Mi Band 7,1,18700,0,Rahul Sharma
+ORD-0351,11-08-2023,CUST-3979,Pooja Desai,East,Kolkata,Wearables,Apple Watch Series 8,1,19800,5,Kavya Iyer
+ORD-0352,11-08-2023,CUST-2255,Rajesh Kumar,Central,Bhopal,Laptops,ASUS VivoBook,1,63300,0,Amit Kumar
+ORD-0353,11-08-2023,CUST-7626,Akash Pillai,East,Kolkata,Wearables,Apple Watch Series 8,1,33600,25,Rohan Mehta
+ORD-0354,11-09-2023,CUST-1930,Ritika Menon,North,Chandigarh,Tablets,Amazon Fire HD,1,32400,15,Priya Patel
+ORD-0355,11-09-2023,CUST-7644,Siddharth Tiwari,North,Jaipur,Wearables,Samsung Galaxy Watch,1,21800,0,Priya Patel
+ORD-0356,11-09-2023,CUST-2605,Tanvi Kulkarni,South,Bangalore,Accessories,USB-C Cable,2,3000,5,Vikram Singh
+ORD-0357,11-09-2023,CUST-3666,Manish Arora,East,Patna,Tablets,Lenovo Tab P11,1,35200,20,Amit Kumar
+ORD-0358,11-10-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Accessories,Wireless Mouse,2,1700,0,Vikram Singh
+ORD-0359,11-11-2023,CUST-4559,Aarti Shetty,Central,Indore,Tablets,Amazon Fire HD,1,40100,10,Kavya Iyer
+ORD-0360,11-11-2023,CUST-9848,Karan Verma,South,Bangalore,Tablets,Samsung Tab S8,1,39100,0,Priya Patel
+ORD-0361,11-11-2023,CUST-3666,Manish Arora,South,Chennai,Accessories,Mechanical Keyboard,2,2400,0,Amit Kumar
+ORD-0362,11-12-2023,CUST-7644,Siddharth Tiwari,East,Kolkata,Smartphones,Xiaomi 13,1,44800,20,Vikram Singh
+ORD-0363,11-12-2023,CUST-9409,Mohit Saxena,East,Kolkata,Wearables,Fitbit Versa 4,1,30300,15,Anjali Gupta
+ORD-0364,11-12-2023,CUST-4921,Simran Kaur,East,Kolkata,Smartphones,OnePlus Nord,1,57200,0,Vikram Singh
+ORD-0365,11-12-2023,CUST-4813,Swati Nambiar,Central,Raipur,Accessories,Wireless Mouse,2,2300,10,Vikram Singh
+ORD-0366,11-12-2023,CUST-9646,Amit Patel,North,Delhi,Wearables,Apple Watch Series 8,1,24700,25,Priya Patel
+ORD-0367,12-01-2023,CUST-9409,Mohit Saxena,South,Hyderabad,Accessories,Webcam,2,1900,10,Kavya Iyer
+ORD-0368,12-01-2023,CUST-8941,Harsh Sinha,Central,Indore,Laptops,Lenovo ThinkPad,1,44500,0,Vikram Singh
+ORD-0369,12-02-2023,CUST-9409,Mohit Saxena,East,Bhubaneswar,Accessories,Mechanical Keyboard,1,1700,10,Anjali Gupta
+ORD-0370,12-02-2023,CUST-8896,Nisha Ghosh,South,Hyderabad,Accessories,Webcam,2,2500,0,Priya Patel
+ORD-0371,12-02-2023,CUST-7862,Meera Chawla,East,Ranchi,Laptops,ASUS VivoBook,1,39700,5,Vikram Singh
+ORD-0372,12-02-2023,CUST-7107,Yash Dhawan,West,Mumbai,Accessories,Webcam,2,2200,0,Vikram Singh
+ORD-0373,12-03-2023,CUST-3979,Pooja Desai,North,Jaipur,Accessories,Mechanical Keyboard,2,2300,0,Rohan Mehta
+ORD-0374,12-03-2023,CUST-2255,Rajesh Kumar,South,Chennai,Smartphones,Samsung Galaxy S23,1,28100,10,Vikram Singh
+ORD-0375,12-03-2023,CUST-6769,Vikram Reddy,South,Chennai,Accessories,Mechanical Keyboard,2,2700,5,Rohan Mehta
+ORD-0376,12-05-2023,CUST-7145,Kavya Iyer,South,Bangalore,Laptops,Acer Aspire,1,54300,20,Rahul Sharma
+ORD-0377,12-07-2023,CUST-1655,Divya Shah,South,Hyderabad,Accessories,USB-C Cable,1,1700,0,Rohan Mehta
+ORD-0378,12-07-2023,CUST-3178,Ananya Bose,Central,Nagpur,Tablets,Amazon Fire HD,1,33300,15,Rahul Sharma
+ORD-0379,12-08-2023,CUST-1655,Divya Shah,Central,Indore,Laptops,Lenovo ThinkPad,2,65500,15,Kavya Iyer
+ORD-0380,12-08-2023,CUST-8896,Nisha Ghosh,North,Chandigarh,Laptops,Lenovo ThinkPad,1,41700,25,Rohan Mehta
+ORD-0381,12-09-2023,CUST-4559,Aarti Shetty,North,Delhi,Accessories,Laptop Bag,2,1100,0,Rahul Sharma
+ORD-0382,12-09-2023,CUST-9848,Karan Verma,West,Ahmedabad,Laptops,ASUS VivoBook,1,59800,25,Anjali Gupta
+ORD-0383,12-09-2023,CUST-2454,Ishita Bansal,North,Jaipur,Tablets,Lenovo Tab P11,1,41900,0,Rohan Mehta
+ORD-0384,12-09-2023,CUST-3979,Pooja Desai,West,Mumbai,Wearables,Mi Band 7,1,33100,5,Kavya Iyer
+ORD-0385,12-09-2023,CUST-2605,Tanvi Kulkarni,North,Jaipur,Wearables,Apple Watch Series 8,1,32600,10,Rohan Mehta
+ORD-0386,12-09-2023,CUST-4723,Kunal Dixit,South,Chennai,Wearables,Apple Watch Series 8,1,27800,5,Amit Kumar
+ORD-0387,12-09-2023,CUST-3178,Ananya Bose,Central,Nagpur,Tablets,Amazon Fire HD,2,33100,5,Vikram Singh
+ORD-0388,12-09-2023,CUST-4996,Varun Chopra,South,Chennai,Laptops,Dell Inspiron,2,56200,10,Sneha Reddy
+ORD-0389,12-10-2023,CUST-6769,Vikram Reddy,North,Chandigarh,Smartphones,OnePlus Nord,1,35800,10,Priya Patel
+ORD-0390,12-10-2023,CUST-0908,Gaurav Bhatt,West,Surat,Smartphones,iPhone 14,1,55800,0,Rahul Sharma
+ORD-0391,12-10-2023,CUST-9409,Mohit Saxena,West,Mumbai,Tablets,Amazon Fire HD,1,28600,20,Rohan Mehta
+ORD-0392,12-11-2023,CUST-4234,Sanjay Joshi,West,Pune,Accessories,Wireless Mouse,2,1400,5,Anjali Gupta
+ORD-0393,12-11-2023,CUST-7644,Siddharth Tiwari,West,Ahmedabad,Laptops,Lenovo ThinkPad,1,64100,5,Kavya Iyer
+ORD-0394,12-12-2023,CUST-7344,Rohan Mehta,Central,Nagpur,Accessories,Wireless Mouse,2,2500,20,Rahul Sharma
+ORD-0395,13-01-2023,CUST-7955,Riya Malhotra,South,Kochi,Tablets,Lenovo Tab P11,1,31800,0,Anjali Gupta
+ORD-0396,13-01-2023,CUST-9646,Amit Patel,Central,Nagpur,Wearables,Mi Band 7,1,24000,15,Vikram Singh
+ORD-0397,13-01-2023,CUST-7145,Kavya Iyer,West,Mumbai,Tablets,Amazon Fire HD,1,32200,0,Amit Kumar
+ORD-0398,13-02-2023,CUST-0908,Gaurav Bhatt,South,Kochi,Accessories,Webcam,2,2000,5,Kavya Iyer
+ORD-0399,13-02-2023,CUST-4559,Aarti Shetty,Central,Raipur,Wearables,Fitbit Versa 4,1,14400,10,Rohan Mehta
+ORD-0400,13-03-2023,CUST-7107,Yash Dhawan,Central,Bhopal,Smartphones,iPhone 14,1,31500,15,Vikram Singh
+ORD-0401,13-03-2023,CUST-3174,Pallavi Krishnan,South,Bangalore,Wearables,Apple Watch Series 8,1,17500,20,Vikram Singh
+ORD-0402,13-04-2023,CUST-3523,Aditya Rao,South,Hyderabad,Wearables,Samsung Galaxy Watch,1,13500,0,Kavya Iyer
+ORD-0403,13-04-2023,CUST-7145,Kavya Iyer,South,Hyderabad,Tablets,Lenovo Tab P11,1,35000,15,Vikram Singh
+ORD-0404,13-04-2023,CUST-9848,Karan Verma,East,Patna,Wearables,Apple Watch Series 8,1,24800,0,Sneha Reddy
+ORD-0405,13-05-2023,CUST-7955,Riya Malhotra,South,Hyderabad,Wearables,Mi Band 7,1,22900,5,Kavya Iyer
+ORD-0406,13-05-2023,CUST-3666,Manish Arora,West,Surat,Accessories,Wireless Mouse,2,2400,25,Sneha Reddy
+ORD-0407,13-05-2023,CUST-2255,Rajesh Kumar,East,Patna,Wearables,Samsung Galaxy Watch,1,17400,20,Sneha Reddy
+ORD-0408,13-05-2023,CUST-4723,Kunal Dixit,North,Chandigarh,Smartphones,iPhone 14,1,29700,10,Anjali Gupta
+ORD-0409,13-06-2023,CUST-7955,Riya Malhotra,West,Pune,Tablets,Samsung Tab S8,2,33700,0,Anjali Gupta
+ORD-0410,13-06-2023,CUST-0908,Gaurav Bhatt,South,Bangalore,Wearables,Samsung Galaxy Watch,1,20600,5,Vikram Singh
+ORD-0411,13-07-2023,CUST-1014,Anjali Gupta,Central,Raipur,Laptops,Dell Inspiron,1,74700,0,Kavya Iyer
+ORD-0412,13-07-2023,CUST-9848,Karan Verma,North,Chandigarh,Tablets,Lenovo Tab P11,1,38600,0,Vikram Singh
+ORD-0413,13-08-2023,CUST-3178,Ananya Bose,Central,Bhopal,Laptops,HP Pavilion,1,59200,10,Priya Patel
+ORD-0414,13-08-2023,CUST-7107,Yash Dhawan,West,Surat,Laptops,ASUS VivoBook,2,55900,0,Sneha Reddy
+ORD-0415,13-08-2023,CUST-4813,Swati Nambiar,North,Jaipur,Smartphones,Realme GT,1,41400,10,Rohan Mehta
+ORD-0416,13-09-2023,CUST-9409,Mohit Saxena,Central,Bhopal,Wearables,Apple Watch Series 8,1,19000,10,Amit Kumar
+ORD-0417,13-09-2023,CUST-7862,Meera Chawla,Central,Nagpur,Tablets,Amazon Fire HD,1,26600,15,Amit Kumar
+ORD-0418,13-10-2023,CUST-3979,Pooja Desai,Central,Indore,Accessories,Mechanical Keyboard,3,1400,5,Anjali Gupta
+ORD-0419,13-10-2023,CUST-7862,Meera Chawla,Central,Raipur,Laptops,Acer Aspire,1,57500,10,Rohan Mehta
+ORD-0420,13-10-2023,CUST-7107,Yash Dhawan,East,Kolkata,Accessories,Wireless Mouse,2,2000,5,Priya Patel
+ORD-0421,13-10-2023,CUST-3178,Ananya Bose,East,Bhubaneswar,Smartphones,Realme GT,1,21900,20,Rahul Sharma
+ORD-0422,13-10-2023,CUST-3234,Nikhil Jain,North,Delhi,Tablets,Samsung Tab S8,1,32900,15,Rahul Sharma
+ORD-0423,13-11-2023,CUST-7107,Yash Dhawan,Central,Raipur,Accessories,Wireless Mouse,2,2000,0,Rohan Mehta
+ORD-0424,13-11-2023,CUST-1930,Ritika Menon,North,Delhi,Tablets,Amazon Fire HD,1,33900,10,Kavya Iyer
+ORD-0425,13-11-2023,CUST-4921,Simran Kaur,West,Ahmedabad,Laptops,ASUS VivoBook,1,74100,0,Rohan Mehta
+ORD-0426,13-12-2023,CUST-7626,Akash Pillai,Central,Raipur,Wearables,Apple Watch Series 8,1,18200,0,Anjali Gupta
+ORD-0427,13-12-2023,CUST-2255,Rajesh Kumar,South,Hyderabad,Accessories,Webcam,1,2300,0,Kavya Iyer
+ORD-0428,13-12-2023,CUST-9670,Priya Singh,Central,Bhopal,Wearables,Mi Band 7,1,32000,0,Priya Patel
+ORD-0429,13-12-2023,CUST-6769,Vikram Reddy,South,Hyderabad,Wearables,Apple Watch Series 8,1,16200,0,Rahul Sharma
+ORD-0430,13-12-2023,CUST-2454,Ishita Bansal,South,Hyderabad,Accessories,Webcam,2,1900,0,Vikram Singh
+ORD-0431,14-01-2023,CUST-4813,Swati Nambiar,East,Patna,Accessories,Webcam,2,1100,0,Priya Patel
+ORD-0432,14-01-2023,CUST-1655,Divya Shah,West,Mumbai,Laptops,Lenovo ThinkPad,1,47100,25,Priya Patel
+ORD-0433,14-02-2023,CUST-3979,Pooja Desai,East,Ranchi,Smartphones,Samsung Galaxy S23,1,50700,0,Amit Kumar
+ORD-0434,14-02-2023,CUST-0051,Sneha Sharma,West,Mumbai,Accessories,Webcam,2,2100,25,Vikram Singh
+ORD-0435,14-02-2023,CUST-4996,Varun Chopra,Central,Raipur,Laptops,Lenovo ThinkPad,1,52300,5,Vikram Singh
+ORD-0436,14-02-2023,CUST-7644,Siddharth Tiwari,West,Surat,Smartphones,Realme GT,1,16500,25,Anjali Gupta
+ORD-0437,14-03-2023,CUST-7920,Sakshi Rathore,Central,Nagpur,Accessories,Webcam,1,2300,0,Priya Patel
+ORD-0438,14-03-2023,CUST-9848,Karan Verma,East,Kolkata,Smartphones,OnePlus Nord,1,29300,10,Priya Patel
+ORD-0439,14-04-2023,CUST-7955,Riya Malhotra,East,Bhubaneswar,Laptops,Acer Aspire,2,53900,0,Amit Kumar
+ORD-0440,14-05-2023,CUST-6769,Vikram Reddy,South,Kochi,Wearables,Apple Watch Series 8,1,22800,20,Vikram Singh
+ORD-0441,14-05-2023,CUST-2605,Tanvi Kulkarni,South,Kochi,Smartphones,Realme GT,1,28400,0,Priya Patel
+ORD-0442,14-05-2023,CUST-0208,Arjun Nair,South,Hyderabad,Laptops,Dell Inspiron,2,59100,20,Anjali Gupta
+ORD-0443,14-06-2023,CUST-6769,Vikram Reddy,South,Bangalore,Wearables,Fitbit Versa 4,1,25300,10,Priya Patel
+ORD-0444,14-06-2023,CUST-7644,Siddharth Tiwari,North,Delhi,Tablets,Lenovo Tab P11,1,35600,5,Rohan Mehta
+ORD-0445,14-07-2023,CUST-9670,Priya Singh,East,Ranchi,Tablets,iPad Air,1,37200,15,Rahul Sharma
+ORD-0446,14-07-2023,CUST-0908,Gaurav Bhatt,North,Chandigarh,Wearables,Apple Watch Series 8,1,17200,5,Amit Kumar
+ORD-0447,14-07-2023,CUST-7626,Akash Pillai,West,Ahmedabad,Tablets,Lenovo Tab P11,1,49100,10,Kavya Iyer
+ORD-0448,14-07-2023,CUST-8896,Nisha Ghosh,West,Surat,Tablets,Samsung Tab S8,1,32200,20,Rahul Sharma
+ORD-0449,14-07-2023,CUST-3178,Ananya Bose,Central,Indore,Wearables,Samsung Galaxy Watch,1,24000,0,Rahul Sharma
+ORD-0450,14-08-2023,CUST-7107,Yash Dhawan,West,Ahmedabad,Wearables,Apple Watch Series 8,1,24300,15,Anjali Gupta
+ORD-0451,14-09-2023,CUST-2454,Ishita Bansal,South,Chennai,Tablets,Amazon Fire HD,1,50000,20,Anjali Gupta
+ORD-0452,14-09-2023,CUST-4723,Kunal Dixit,North,Jaipur,Wearables,Fitbit Versa 4,1,32500,10,Anjali Gupta
+ORD-0453,14-09-2023,CUST-4234,Sanjay Joshi,West,Pune,Smartphones,Xiaomi 13,1,19300,20,Kavya Iyer
+ORD-0454,14-10-2023,CUST-7145,Kavya Iyer,Central,Nagpur,Tablets,iPad Air,1,29200,10,Anjali Gupta
+ORD-0455,14-10-2023,CUST-7145,Kavya Iyer,Central,Bhopal,Accessories,Laptop Bag,2,1300,0,Amit Kumar
+ORD-0456,14-10-2023,CUST-7107,Yash Dhawan,East,Ranchi,Smartphones,Realme GT,1,34100,0,Anjali Gupta
+ORD-0457,14-11-2023,CUST-9670,Priya Singh,South,Chennai,Smartphones,iPhone 14,1,21000,10,Amit Kumar
+ORD-0458,14-11-2023,CUST-3979,Pooja Desai,North,Chandigarh,Wearables,Samsung Galaxy Watch,1,32300,5,Anjali Gupta
+ORD-0459,14-11-2023,CUST-1014,Anjali Gupta,East,Kolkata,Smartphones,Xiaomi 13,1,26500,0,Rohan Mehta
+ORD-0460,14-11-2023,CUST-2605,Tanvi Kulkarni,North,Jaipur,Tablets,Amazon Fire HD,2,34600,15,Vikram Singh
+ORD-0461,14-11-2023,CUST-7644,Siddharth Tiwari,East,Bhubaneswar,Laptops,Dell Inspiron,2,41400,5,Rahul Sharma
+ORD-0462,14-12-2023,CUST-4813,Swati Nambiar,Central,Bhopal,Tablets,iPad Air,1,27000,10,Sneha Reddy
+ORD-0463,14-12-2023,CUST-3234,Nikhil Jain,Central,Indore,Wearables,Fitbit Versa 4,1,12800,5,Anjali Gupta
+ORD-0464,14-12-2023,CUST-2454,Ishita Bansal,East,Ranchi,Accessories,Laptop Bag,2,1000,10,Kavya Iyer
+ORD-0465,15-01-2023,CUST-0208,Arjun Nair,West,Ahmedabad,Accessories,Mechanical Keyboard,1,1900,15,Rahul Sharma
+ORD-0466,15-01-2023,CUST-3585,Rahul Kapoor,West,Mumbai,Smartphones,Realme GT,1,31200,5,Sneha Reddy
+ORD-0467,15-01-2023,CUST-4921,Simran Kaur,East,Patna,Smartphones,Realme GT,1,45900,15,Anjali Gupta
+ORD-0468,15-02-2023,CUST-0908,Gaurav Bhatt,South,Kochi,Accessories,Laptop Bag,2,1300,10,Rohan Mehta
+ORD-0469,15-02-2023,CUST-3178,Ananya Bose,West,Pune,Tablets,Samsung Tab S8,2,50000,0,Rohan Mehta
+ORD-0470,15-02-2023,CUST-4559,Aarti Shetty,North,Chandigarh,Tablets,Amazon Fire HD,1,21300,0,Kavya Iyer
+ORD-0471,15-03-2023,CUST-8941,Harsh Sinha,North,Jaipur,Smartphones,Samsung Galaxy S23,2,51100,15,Priya Patel
+ORD-0472,15-03-2023,CUST-1930,Ritika Menon,North,Jaipur,Wearables,Samsung Galaxy Watch,1,14200,10,Rohan Mehta
+ORD-0473,15-03-2023,CUST-4921,Simran Kaur,Central,Raipur,Laptops,HP Pavilion,1,57100,0,Anjali Gupta
+ORD-0474,15-04-2023,CUST-8896,Nisha Ghosh,East,Ranchi,Tablets,iPad Air,1,31200,0,Vikram Singh
+ORD-0475,15-04-2023,CUST-3178,Ananya Bose,East,Bhubaneswar,Tablets,Lenovo Tab P11,2,43400,10,Amit Kumar
+ORD-0476,15-05-2023,CUST-7955,Riya Malhotra,North,Chandigarh,Smartphones,Realme GT,1,48300,25,Vikram Singh
+ORD-0477,15-05-2023,CUST-1930,Ritika Menon,East,Ranchi,Smartphones,Realme GT,1,25600,5,Sneha Reddy
+ORD-0478,15-05-2023,CUST-3174,Pallavi Krishnan,North,Delhi,Laptops,Acer Aspire,1,49000,0,Rohan Mehta
+ORD-0479,15-05-2023,CUST-9848,Karan Verma,Central,Nagpur,Wearables,Samsung Galaxy Watch,1,25400,10,Anjali Gupta
+ORD-0480,15-06-2023,CUST-2605,Tanvi Kulkarni,Central,Bhopal,Accessories,Wireless Mouse,2,2000,5,Kavya Iyer
+ORD-0481,15-06-2023,CUST-3178,Ananya Bose,North,Delhi,Wearables,Mi Band 7,1,35000,0,Vikram Singh
+ORD-0482,15-06-2023,CUST-3666,Manish Arora,Central,Nagpur,Laptops,Dell Inspiron,1,70300,5,Rahul Sharma
+ORD-0483,15-06-2023,CUST-7920,Sakshi Rathore,West,Ahmedabad,Wearables,Fitbit Versa 4,1,21300,0,Amit Kumar
+ORD-0484,15-07-2023,CUST-9848,Karan Verma,South,Bangalore,Laptops,HP Pavilion,1,53300,5,Vikram Singh
+ORD-0485,15-08-2023,CUST-7626,Akash Pillai,East,Patna,Wearables,Apple Watch Series 8,1,25000,10,Priya Patel
+ORD-0486,15-08-2023,CUST-0051,Sneha Sharma,South,Kochi,Accessories,Webcam,2,2000,10,Amit Kumar
+ORD-0487,15-08-2023,CUST-0908,Gaurav Bhatt,Central,Raipur,Wearables,Mi Band 7,1,19400,0,Kavya Iyer
+ORD-0488,15-09-2023,CUST-8896,Nisha Ghosh,East,Bhubaneswar,Wearables,Samsung Galaxy Watch,1,33600,10,Sneha Reddy
+ORD-0489,15-09-2023,CUST-1930,Ritika Menon,Central,Raipur,Tablets,Samsung Tab S8,1,43000,10,Kavya Iyer
+ORD-0490,15-09-2023,CUST-0208,Arjun Nair,Central,Raipur,Smartphones,iPhone 14,1,32200,25,Vikram Singh
+ORD-0491,15-10-2023,CUST-8941,Harsh Sinha,West,Surat,Smartphones,iPhone 14,1,35800,10,Sneha Reddy
+ORD-0492,15-10-2023,CUST-9646,Amit Patel,North,Delhi,Laptops,HP Pavilion,1,63300,20,Anjali Gupta
+ORD-0493,15-10-2023,CUST-6769,Vikram Reddy,Central,Nagpur,Tablets,iPad Air,1,36800,15,Anjali Gupta
+ORD-0494,15-11-2023,CUST-9646,Amit Patel,South,Bangalore,Accessories,Webcam,2,1300,20,Vikram Singh
+ORD-0495,15-11-2023,CUST-4813,Swati Nambiar,Central,Indore,Accessories,Wireless Mouse,2,1300,20,Priya Patel
+ORD-0496,15-11-2023,CUST-7107,Yash Dhawan,South,Kochi,Tablets,Amazon Fire HD,1,32700,5,Sneha Reddy
+ORD-0497,15-11-2023,CUST-3666,Manish Arora,South,Chennai,Smartphones,Xiaomi 13,1,40100,0,Sneha Reddy
+ORD-0498,15-12-2023,CUST-7644,Siddharth Tiwari,North,Jaipur,Tablets,Amazon Fire HD,1,31200,25,Amit Kumar
+ORD-0499,15-12-2023,CUST-1655,Divya Shah,North,Chandigarh,Tablets,iPad Air,1,44500,10,Rahul Sharma
+ORD-0500,15-12-2023,CUST-6769,Vikram Reddy,Central,Nagpur,Tablets,Samsung Tab S8,1,46500,15,Kavya Iyer
+ORD-0501,15-12-2023,CUST-0908,Gaurav Bhatt,West,Pune,Accessories,Webcam,2,2600,20,Amit Kumar
+ORD-0502,16-01-2023,CUST-3666,Manish Arora,East,Ranchi,Tablets,iPad Air,1,22500,5,Priya Patel
+ORD-0503,16-02-2023,CUST-2454,Ishita Bansal,West,Mumbai,Laptops,ASUS VivoBook,2,62100,0,Rahul Sharma
+ORD-0504,16-02-2023,CUST-0208,Arjun Nair,North,Delhi,Accessories,Wireless Mouse,2,1600,10,Rahul Sharma
+ORD-0505,16-02-2023,CUST-9409,Mohit Saxena,South,Hyderabad,Smartphones,iPhone 14,1,33300,15,Rohan Mehta
+ORD-0506,16-02-2023,CUST-8896,Nisha Ghosh,West,Ahmedabad,Wearables,Fitbit Versa 4,1,21600,10,Priya Patel
+ORD-0507,16-02-2023,CUST-2605,Tanvi Kulkarni,Central,Indore,Accessories,Laptop Bag,2,1200,15,Amit Kumar
+ORD-0508,16-02-2023,CUST-2605,Tanvi Kulkarni,Central,Nagpur,Wearables,Fitbit Versa 4,1,12100,15,Anjali Gupta
+ORD-0509,16-02-2023,CUST-9848,Karan Verma,South,Hyderabad,Wearables,Samsung Galaxy Watch,1,26700,10,Sneha Reddy
+ORD-0510,16-02-2023,CUST-1655,Divya Shah,Central,Nagpur,Laptops,Dell Inspiron,1,66700,10,Priya Patel
+ORD-0511,16-03-2023,CUST-6316,Sameer Dutta,East,Ranchi,Tablets,Lenovo Tab P11,1,34900,0,Rahul Sharma
+ORD-0512,16-03-2023,CUST-0208,Arjun Nair,South,Hyderabad,Smartphones,Samsung Galaxy S23,1,41000,0,Rahul Sharma
+ORD-0513,16-03-2023,CUST-4921,Simran Kaur,Central,Indore,Accessories,Laptop Bag,2,2500,10,Kavya Iyer
+ORD-0514,16-04-2023,CUST-1655,Divya Shah,Central,Nagpur,Wearables,Samsung Galaxy Watch,1,28500,5,Vikram Singh
+ORD-0515,16-05-2023,CUST-0051,Sneha Sharma,East,Ranchi,Tablets,iPad Air,1,28500,10,Sneha Reddy
+ORD-0516,16-05-2023,CUST-8941,Harsh Sinha,East,Ranchi,Laptops,Lenovo ThinkPad,1,53700,20,Anjali Gupta
+ORD-0517,16-05-2023,CUST-8896,Nisha Ghosh,South,Chennai,Wearables,Samsung Galaxy Watch,1,23200,25,Rohan Mehta
+ORD-0518,16-05-2023,CUST-1655,Divya Shah,West,Ahmedabad,Accessories,Webcam,2,2600,15,Sneha Reddy
+ORD-0519,16-05-2023,CUST-9848,Karan Verma,Central,Indore,Laptops,Acer Aspire,1,48200,15,Rohan Mehta
+ORD-0520,16-06-2023,CUST-8941,Harsh Sinha,South,Bangalore,Smartphones,Xiaomi 13,1,43600,5,Sneha Reddy
+ORD-0521,16-07-2023,CUST-9646,Amit Patel,West,Ahmedabad,Accessories,Laptop Bag,2,1800,15,Rahul Sharma
+ORD-0522,16-07-2023,CUST-2454,Ishita Bansal,Central,Nagpur,Smartphones,Samsung Galaxy S23,1,46100,0,Vikram Singh
+ORD-0523,16-08-2023,CUST-4921,Simran Kaur,Central,Nagpur,Accessories,Mechanical Keyboard,2,2100,20,Vikram Singh
+ORD-0524,16-08-2023,CUST-9409,Mohit Saxena,North,Jaipur,Wearables,Samsung Galaxy Watch,1,26700,10,Vikram Singh
+ORD-0525,16-09-2023,CUST-3979,Pooja Desai,Central,Raipur,Laptops,Dell Inspiron,1,69900,20,Rohan Mehta
+ORD-0526,16-09-2023,CUST-7920,Sakshi Rathore,Central,Bhopal,Laptops,Acer Aspire,1,49000,0,Sneha Reddy
+ORD-0527,16-09-2023,CUST-4723,Kunal Dixit,East,Ranchi,Wearables,Samsung Galaxy Watch,1,24100,5,Rohan Mehta
+ORD-0528,16-09-2023,CUST-0051,Sneha Sharma,West,Pune,Smartphones,Realme GT,2,47400,10,Rahul Sharma
+ORD-0529,16-09-2023,CUST-8896,Nisha Ghosh,East,Patna,Wearables,Apple Watch Series 8,1,31300,0,Priya Patel
+ORD-0530,16-10-2023,CUST-7107,Yash Dhawan,North,Delhi,Wearables,Fitbit Versa 4,1,19900,25,Amit Kumar
+ORD-0531,16-10-2023,CUST-3666,Manish Arora,East,Kolkata,Accessories,Webcam,2,1000,0,Rahul Sharma
+ORD-0532,16-10-2023,CUST-3523,Aditya Rao,North,Chandigarh,Tablets,iPad Air,1,31900,10,Rahul Sharma
+ORD-0533,16-11-2023,CUST-7644,Siddharth Tiwari,South,Kochi,Wearables,Mi Band 7,1,24800,20,Rohan Mehta
+ORD-0534,16-11-2023,CUST-6348,Shreya Pandey,Central,Bhopal,Smartphones,Samsung Galaxy S23,1,35400,10,Anjali Gupta
+ORD-0535,16-12-2023,CUST-7107,Yash Dhawan,East,Bhubaneswar,Laptops,Lenovo ThinkPad,1,35000,5,Rahul Sharma
+ORD-0536,16-12-2023,CUST-7107,Yash Dhawan,East,Ranchi,Laptops,Dell Inspiron,1,41300,10,Anjali Gupta
+ORD-0537,16-12-2023,CUST-7107,Yash Dhawan,East,Ranchi,Laptops,ASUS VivoBook,1,62300,5,Vikram Singh
+ORD-0538,17-01-2023,CUST-7344,Rohan Mehta,West,Mumbai,Smartphones,iPhone 14,1,50400,0,Rahul Sharma
+ORD-0539,17-02-2023,CUST-3178,Ananya Bose,East,Patna,Smartphones,Samsung Galaxy S23,1,31500,10,Kavya Iyer
+ORD-0540,17-02-2023,CUST-7920,Sakshi Rathore,West,Pune,Wearables,Apple Watch Series 8,1,27800,10,Rohan Mehta
+ORD-0541,17-02-2023,CUST-0908,Gaurav Bhatt,West,Mumbai,Accessories,USB-C Cable,3,2100,15,Sneha Reddy
+ORD-0542,17-03-2023,CUST-1930,Ritika Menon,West,Mumbai,Laptops,Lenovo ThinkPad,1,46400,15,Sneha Reddy
+ORD-0543,17-03-2023,CUST-5788,Neha Agarwal,North,Lucknow,Laptops,HP Pavilion,1,53300,5,Amit Kumar
+ORD-0544,17-03-2023,CUST-9670,Priya Singh,South,Bangalore,Wearables,Apple Watch Series 8,1,22200,5,Kavya Iyer
+ORD-0545,17-03-2023,CUST-4996,Varun Chopra,Central,Bhopal,Laptops,Acer Aspire,1,60600,0,Anjali Gupta
+ORD-0546,17-04-2023,CUST-9848,Karan Verma,Central,Indore,Accessories,Wireless Mouse,2,1800,5,Sneha Reddy
+ORD-0547,17-04-2023,CUST-1014,Anjali Gupta,West,Ahmedabad,Accessories,USB-C Cable,3,1500,0,Amit Kumar
+ORD-0548,17-04-2023,CUST-1014,Anjali Gupta,West,Ahmedabad,Smartphones,Samsung Galaxy S23,1,43900,0,Priya Patel
+ORD-0549,17-04-2023,CUST-7955,Riya Malhotra,Central,Nagpur,Tablets,iPad Air,1,42000,0,Rahul Sharma
+ORD-0550,17-04-2023,CUST-3174,Pallavi Krishnan,East,Ranchi,Wearables,Samsung Galaxy Watch,1,26700,0,Rohan Mehta
+ORD-0551,17-05-2023,CUST-6348,Shreya Pandey,Central,Raipur,Tablets,iPad Air,1,33200,0,Anjali Gupta
+ORD-0552,17-05-2023,CUST-6348,Shreya Pandey,East,Patna,Wearables,Apple Watch Series 8,1,18700,5,Sneha Reddy
+ORD-0553,17-05-2023,CUST-4921,Simran Kaur,East,Bhubaneswar,Tablets,Samsung Tab S8,1,31900,10,Priya Patel
+ORD-0554,17-05-2023,CUST-8941,Harsh Sinha,North,Chandigarh,Wearables,Apple Watch Series 8,1,17100,10,Rohan Mehta
+ORD-0555,17-06-2023,CUST-4723,Kunal Dixit,West,Ahmedabad,Wearables,Fitbit Versa 4,1,35000,5,Rohan Mehta
+ORD-0556,17-06-2023,CUST-3234,Nikhil Jain,North,Lucknow,Accessories,Laptop Bag,2,800,5,Rohan Mehta
+ORD-0557,17-07-2023,CUST-4559,Aarti Shetty,North,Lucknow,Accessories,Laptop Bag,3,1800,0,Sneha Reddy
+ORD-0558,17-07-2023,CUST-7920,Sakshi Rathore,East,Bhubaneswar,Accessories,Laptop Bag,1,500,10,Vikram Singh
+ORD-0559,17-08-2023,CUST-4234,Sanjay Joshi,East,Kolkata,Tablets,iPad Air,1,47800,25,Sneha Reddy
+ORD-0560,17-08-2023,CUST-1655,Divya Shah,East,Ranchi,Accessories,Webcam,1,2200,20,Anjali Gupta
+ORD-0561,17-08-2023,CUST-7644,Siddharth Tiwari,Central,Bhopal,Smartphones,Samsung Galaxy S23,1,32800,10,Sneha Reddy
+ORD-0562,17-09-2023,CUST-8941,Harsh Sinha,Central,Bhopal,Tablets,Samsung Tab S8,1,49100,25,Amit Kumar
+ORD-0563,17-09-2023,CUST-7107,Yash Dhawan,East,Ranchi,Accessories,Laptop Bag,2,1600,0,Amit Kumar
+ORD-0564,17-09-2023,CUST-6348,Shreya Pandey,North,Lucknow,Wearables,Fitbit Versa 4,1,14900,0,Amit Kumar
+ORD-0565,17-10-2023,CUST-4921,Simran Kaur,North,Jaipur,Tablets,Amazon Fire HD,1,22500,0,Amit Kumar
+ORD-0566,17-10-2023,CUST-7862,Meera Chawla,West,Ahmedabad,Laptops,Dell Inspiron,1,49300,0,Rahul Sharma
+ORD-0567,17-11-2023,CUST-5788,Neha Agarwal,South,Hyderabad,Laptops,HP Pavilion,1,44600,5,Priya Patel
+ORD-0568,17-11-2023,CUST-3174,Pallavi Krishnan,East,Kolkata,Wearables,Fitbit Versa 4,1,18900,25,Amit Kumar
+ORD-0569,17-11-2023,CUST-3585,Rahul Kapoor,East,Ranchi,Laptops,Acer Aspire,2,65600,5,Amit Kumar
+ORD-0570,17-11-2023,CUST-4996,Varun Chopra,West,Mumbai,Wearables,Apple Watch Series 8,1,18400,5,Sneha Reddy
+ORD-0571,17-11-2023,CUST-3979,Pooja Desai,North,Jaipur,Smartphones,Xiaomi 13,1,37100,0,Rohan Mehta
+ORD-0572,17-11-2023,CUST-3234,Nikhil Jain,Central,Nagpur,Accessories,Webcam,2,1400,20,Priya Patel
+ORD-0573,17-12-2023,CUST-3979,Pooja Desai,East,Ranchi,Accessories,USB-C Cable,3,2500,0,Rohan Mehta
+ORD-0574,17-12-2023,CUST-1014,Anjali Gupta,Central,Raipur,Tablets,Amazon Fire HD,1,23000,0,Sneha Reddy
+ORD-0575,17-12-2023,CUST-3174,Pallavi Krishnan,East,Patna,Tablets,iPad Air,1,36500,20,Anjali Gupta
+ORD-0576,17-12-2023,CUST-3178,Ananya Bose,East,Kolkata,Smartphones,Samsung Galaxy S23,2,35000,10,Vikram Singh
+ORD-0577,17-12-2023,CUST-7626,Akash Pillai,Central,Indore,Tablets,iPad Air,1,39800,10,Sneha Reddy
+ORD-0578,17-12-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Wearables,Mi Band 7,1,23700,5,Rahul Sharma
+ORD-0579,18-01-2023,CUST-2605,Tanvi Kulkarni,East,Kolkata,Accessories,Laptop Bag,2,2700,10,Rohan Mehta
+ORD-0580,18-01-2023,CUST-2255,Rajesh Kumar,East,Kolkata,Wearables,Fitbit Versa 4,1,11200,5,Vikram Singh
+ORD-0581,18-02-2023,CUST-1014,Anjali Gupta,West,Ahmedabad,Tablets,Lenovo Tab P11,1,42100,25,Rahul Sharma
+ORD-0582,18-02-2023,CUST-9409,Mohit Saxena,Central,Indore,Accessories,Laptop Bag,2,2400,5,Amit Kumar
+ORD-0583,18-02-2023,CUST-3523,Aditya Rao,North,Chandigarh,Tablets,Samsung Tab S8,1,20000,0,Anjali Gupta
+ORD-0584,18-02-2023,CUST-1655,Divya Shah,Central,Raipur,Tablets,Lenovo Tab P11,1,36400,25,Anjali Gupta
+ORD-0585,18-03-2023,CUST-4559,Aarti Shetty,South,Hyderabad,Laptops,Dell Inspiron,1,52400,25,Priya Patel
+ORD-0586,18-03-2023,CUST-4559,Aarti Shetty,Central,Nagpur,Laptops,HP Pavilion,1,43500,0,Rohan Mehta
+ORD-0587,18-03-2023,CUST-1930,Ritika Menon,South,Bangalore,Smartphones,OnePlus Nord,1,35100,15,Rohan Mehta
+ORD-0588,18-04-2023,CUST-7626,Akash Pillai,Central,Nagpur,Tablets,Samsung Tab S8,1,37000,0,Anjali Gupta
+ORD-0589,18-04-2023,CUST-0908,Gaurav Bhatt,South,Kochi,Laptops,Dell Inspiron,1,58400,0,Rahul Sharma
+ORD-0590,18-04-2023,CUST-3523,Aditya Rao,Central,Indore,Smartphones,Realme GT,1,55100,20,Kavya Iyer
+ORD-0591,18-04-2023,CUST-3979,Pooja Desai,West,Ahmedabad,Accessories,Laptop Bag,2,1000,15,Kavya Iyer
+ORD-0592,18-05-2023,CUST-4559,Aarti Shetty,West,Mumbai,Laptops,HP Pavilion,1,61700,25,Sneha Reddy
+ORD-0593,18-05-2023,CUST-7955,Riya Malhotra,West,Pune,Laptops,HP Pavilion,1,55900,10,Rohan Mehta
+ORD-0594,18-06-2023,CUST-2454,Ishita Bansal,West,Ahmedabad,Accessories,Webcam,2,1800,0,Anjali Gupta
+ORD-0595,18-07-2023,CUST-7644,Siddharth Tiwari,East,Kolkata,Tablets,Lenovo Tab P11,1,47200,0,Priya Patel
+ORD-0596,18-07-2023,CUST-6769,Vikram Reddy,West,Ahmedabad,Wearables,Apple Watch Series 8,2,17700,10,Anjali Gupta
+ORD-0597,18-07-2023,CUST-6769,Vikram Reddy,Central,Raipur,Tablets,Samsung Tab S8,1,42300,15,Rahul Sharma
+ORD-0598,18-08-2023,CUST-2605,Tanvi Kulkarni,Central,Nagpur,Laptops,HP Pavilion,2,66100,10,Vikram Singh
+ORD-0599,18-08-2023,CUST-7626,Akash Pillai,Central,Raipur,Wearables,Mi Band 7,1,33500,20,Rohan Mehta
+ORD-0600,18-08-2023,CUST-4921,Simran Kaur,North,Delhi,Tablets,Samsung Tab S8,1,41200,10,Vikram Singh
+ORD-0601,18-09-2023,CUST-3979,Pooja Desai,East,Kolkata,Tablets,Lenovo Tab P11,1,31100,0,Anjali Gupta
+ORD-0602,18-09-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Wearables,Apple Watch Series 8,1,22300,20,Amit Kumar
+ORD-0603,18-10-2023,CUST-7626,Akash Pillai,West,Ahmedabad,Accessories,Mechanical Keyboard,1,900,0,Anjali Gupta
+ORD-0604,18-11-2023,CUST-3178,Ananya Bose,West,Surat,Accessories,Wireless Mouse,2,2400,0,Vikram Singh
+ORD-0605,18-11-2023,CUST-8896,Nisha Ghosh,North,Chandigarh,Tablets,iPad Air,1,49500,5,Vikram Singh
+ORD-0606,18-11-2023,CUST-1930,Ritika Menon,South,Bangalore,Laptops,Dell Inspiron,1,58400,0,Rahul Sharma
+ORD-0607,18-11-2023,CUST-9409,Mohit Saxena,South,Bangalore,Wearables,Fitbit Versa 4,1,33100,20,Anjali Gupta
+ORD-0608,18-12-2023,CUST-6769,Vikram Reddy,South,Kochi,Accessories,Webcam,3,1200,5,Priya Patel
+ORD-0609,18-12-2023,CUST-1014,Anjali Gupta,East,Kolkata,Smartphones,OnePlus Nord,1,53800,0,Sneha Reddy
+ORD-0610,18-12-2023,CUST-8896,Nisha Ghosh,West,Pune,Wearables,Mi Band 7,1,25700,5,Sneha Reddy
+ORD-0611,19-01-2023,CUST-1014,Anjali Gupta,South,Bangalore,Wearables,Samsung Galaxy Watch,1,24900,10,Rahul Sharma
+ORD-0612,19-01-2023,CUST-9646,Amit Patel,South,Kochi,Laptops,ASUS VivoBook,1,53000,25,Sneha Reddy
+ORD-0613,19-01-2023,CUST-9409,Mohit Saxena,East,Bhubaneswar,Laptops,HP Pavilion,1,72900,0,Vikram Singh
+ORD-0614,19-02-2023,CUST-4559,Aarti Shetty,South,Bangalore,Tablets,Lenovo Tab P11,1,46800,5,Anjali Gupta
+ORD-0615,19-03-2023,CUST-2454,Ishita Bansal,North,Chandigarh,Smartphones,OnePlus Nord,1,46900,10,Kavya Iyer
+ORD-0616,19-03-2023,CUST-7862,Meera Chawla,South,Chennai,Tablets,Amazon Fire HD,1,48500,25,Amit Kumar
+ORD-0617,19-03-2023,CUST-3234,Nikhil Jain,North,Chandigarh,Laptops,HP Pavilion,1,52100,20,Rahul Sharma
+ORD-0618,19-04-2023,CUST-3585,Rahul Kapoor,Central,Raipur,Wearables,Fitbit Versa 4,1,28900,25,Priya Patel
+ORD-0619,19-05-2023,CUST-5788,Neha Agarwal,North,Lucknow,Laptops,Acer Aspire,1,57800,0,Sneha Reddy
+ORD-0620,19-05-2023,CUST-9409,Mohit Saxena,North,Delhi,Tablets,iPad Air,1,22600,0,Rahul Sharma
+ORD-0621,19-06-2023,CUST-0908,Gaurav Bhatt,East,Patna,Smartphones,Realme GT,1,33600,20,Rahul Sharma
+ORD-0622,19-06-2023,CUST-6316,Sameer Dutta,North,Chandigarh,Wearables,Samsung Galaxy Watch,1,17100,0,Kavya Iyer
+ORD-0623,19-07-2023,CUST-7107,Yash Dhawan,West,Mumbai,Wearables,Mi Band 7,1,24300,20,Kavya Iyer
+ORD-0624,19-07-2023,CUST-2454,Ishita Bansal,Central,Raipur,Smartphones,iPhone 14,1,15000,10,Vikram Singh
+ORD-0625,19-08-2023,CUST-7862,Meera Chawla,North,Jaipur,Accessories,Webcam,2,2200,5,Priya Patel
+ORD-0626,19-08-2023,CUST-3979,Pooja Desai,Central,Raipur,Accessories,Wireless Mouse,2,1600,5,Vikram Singh
+ORD-0627,19-08-2023,CUST-9646,Amit Patel,North,Lucknow,Laptops,Acer Aspire,1,63100,0,Sneha Reddy
+ORD-0628,19-08-2023,CUST-2255,Rajesh Kumar,East,Patna,Wearables,Samsung Galaxy Watch,1,25800,15,Rohan Mehta
+ORD-0629,19-08-2023,CUST-8941,Harsh Sinha,South,Chennai,Laptops,Dell Inspiron,1,59800,5,Rohan Mehta
+ORD-0630,19-09-2023,CUST-9409,Mohit Saxena,East,Kolkata,Accessories,Laptop Bag,2,1000,10,Rahul Sharma
+ORD-0631,19-09-2023,CUST-4723,Kunal Dixit,West,Mumbai,Accessories,Mechanical Keyboard,2,1500,20,Kavya Iyer
+ORD-0632,19-09-2023,CUST-0051,Sneha Sharma,East,Ranchi,Smartphones,Realme GT,1,36000,0,Rohan Mehta
+ORD-0633,19-10-2023,CUST-1930,Ritika Menon,South,Bangalore,Tablets,Amazon Fire HD,1,36400,0,Priya Patel
+ORD-0634,19-11-2023,CUST-7107,Yash Dhawan,Central,Bhopal,Accessories,USB-C Cable,2,2100,15,Kavya Iyer
+ORD-0635,19-11-2023,CUST-4234,Sanjay Joshi,North,Delhi,Tablets,Amazon Fire HD,1,29300,5,Anjali Gupta
+ORD-0636,19-11-2023,CUST-4813,Swati Nambiar,South,Chennai,Accessories,Laptop Bag,2,1000,0,Sneha Reddy
+ORD-0637,19-12-2023,CUST-3178,Ananya Bose,East,Bhubaneswar,Smartphones,Samsung Galaxy S23,1,60000,25,Rahul Sharma
+ORD-0638,19-12-2023,CUST-1930,Ritika Menon,West,Ahmedabad,Smartphones,OnePlus Nord,1,22700,0,Kavya Iyer
+ORD-0639,19-12-2023,CUST-9848,Karan Verma,Central,Indore,Tablets,iPad Air,1,38600,5,Kavya Iyer
+ORD-0640,19-12-2023,CUST-9646,Amit Patel,East,Ranchi,Smartphones,Xiaomi 13,2,25100,10,Rohan Mehta
+ORD-0641,20-01-2023,CUST-0908,Gaurav Bhatt,Central,Raipur,Tablets,iPad Air,1,29400,25,Priya Patel
+ORD-0642,20-01-2023,CUST-3666,Manish Arora,West,Ahmedabad,Smartphones,OnePlus Nord,1,60000,10,Rahul Sharma
+ORD-0643,20-03-2023,CUST-7107,Yash Dhawan,West,Ahmedabad,Accessories,Webcam,2,1500,15,Sneha Reddy
+ORD-0644,20-03-2023,CUST-8941,Harsh Sinha,South,Kochi,Wearables,Apple Watch Series 8,1,20700,10,Kavya Iyer
+ORD-0645,20-03-2023,CUST-7626,Akash Pillai,North,Chandigarh,Accessories,Webcam,2,1200,25,Priya Patel
+ORD-0646,20-05-2023,CUST-9646,Amit Patel,Central,Raipur,Accessories,Wireless Mouse,2,3000,25,Rohan Mehta
+ORD-0647,20-05-2023,CUST-0208,Arjun Nair,West,Surat,Accessories,Mechanical Keyboard,3,1900,0,Rahul Sharma
+ORD-0648,20-05-2023,CUST-3523,Aditya Rao,South,Bangalore,Tablets,Samsung Tab S8,1,26500,15,Amit Kumar
+ORD-0649,20-06-2023,CUST-3174,Pallavi Krishnan,North,Delhi,Accessories,Laptop Bag,2,1300,15,Vikram Singh
+ORD-0650,20-06-2023,CUST-8941,Harsh Sinha,West,Pune,Tablets,Samsung Tab S8,1,37000,0,Rahul Sharma
+ORD-0651,20-06-2023,CUST-4559,Aarti Shetty,South,Chennai,Wearables,Fitbit Versa 4,1,27800,0,Sneha Reddy
+ORD-0652,20-06-2023,CUST-1930,Ritika Menon,East,Kolkata,Smartphones,OnePlus Nord,1,34800,10,Vikram Singh
+ORD-0653,20-07-2023,CUST-8941,Harsh Sinha,North,Chandigarh,Smartphones,iPhone 14,1,34200,5,Rahul Sharma
+ORD-0654,20-07-2023,CUST-7145,Kavya Iyer,East,Kolkata,Smartphones,Xiaomi 13,1,57900,10,Sneha Reddy
+ORD-0655,20-07-2023,CUST-0051,Sneha Sharma,Central,Bhopal,Tablets,Amazon Fire HD,1,25000,5,Sneha Reddy
+ORD-0656,20-08-2023,CUST-4996,Varun Chopra,West,Mumbai,Accessories,Webcam,2,2900,20,Kavya Iyer
+ORD-0657,20-08-2023,CUST-4723,Kunal Dixit,South,Kochi,Tablets,Amazon Fire HD,1,41100,10,Priya Patel
+ORD-0658,20-08-2023,CUST-2454,Ishita Bansal,Central,Indore,Wearables,Apple Watch Series 8,1,26300,20,Kavya Iyer
+ORD-0659,20-08-2023,CUST-0208,Arjun Nair,Central,Indore,Laptops,ASUS VivoBook,1,54300,0,Priya Patel
+ORD-0660,20-10-2023,CUST-1655,Divya Shah,South,Hyderabad,Wearables,Mi Band 7,1,17700,20,Rahul Sharma
+ORD-0661,20-10-2023,CUST-7955,Riya Malhotra,Central,Indore,Accessories,Mechanical Keyboard,2,1700,0,Vikram Singh
+ORD-0662,20-10-2023,CUST-6348,Shreya Pandey,West,Surat,Wearables,Samsung Galaxy Watch,1,30100,0,Sneha Reddy
+ORD-0663,20-11-2023,CUST-9670,Priya Singh,West,Pune,Smartphones,Samsung Galaxy S23,1,51900,5,Sneha Reddy
+ORD-0664,20-12-2023,CUST-4559,Aarti Shetty,North,Chandigarh,Accessories,Laptop Bag,2,1800,0,Vikram Singh
+ORD-0665,20-12-2023,CUST-2255,Rajesh Kumar,West,Ahmedabad,Laptops,HP Pavilion,1,62400,0,Sneha Reddy
+ORD-0666,20-12-2023,CUST-7626,Akash Pillai,North,Lucknow,Smartphones,Realme GT,1,57400,25,Sneha Reddy
+ORD-0667,20-12-2023,CUST-0208,Arjun Nair,North,Lucknow,Tablets,Samsung Tab S8,1,36900,5,Kavya Iyer
+ORD-0668,21-01-2023,CUST-9848,Karan Verma,South,Hyderabad,Tablets,Amazon Fire HD,1,30100,10,Rahul Sharma
+ORD-0669,21-01-2023,CUST-1930,Ritika Menon,Central,Nagpur,Accessories,Mechanical Keyboard,2,2500,0,Priya Patel
+ORD-0670,21-01-2023,CUST-4559,Aarti Shetty,East,Bhubaneswar,Smartphones,Samsung Galaxy S23,1,33800,10,Rohan Mehta
+ORD-0671,21-02-2023,CUST-4723,Kunal Dixit,South,Hyderabad,Wearables,Apple Watch Series 8,1,20700,10,Anjali Gupta
+ORD-0672,21-03-2023,CUST-7344,Rohan Mehta,South,Hyderabad,Laptops,Dell Inspiron,1,63600,10,Anjali Gupta
+ORD-0673,21-03-2023,CUST-2255,Rajesh Kumar,North,Delhi,Laptops,ASUS VivoBook,1,61000,25,Rahul Sharma
+ORD-0674,21-03-2023,CUST-6348,Shreya Pandey,West,Pune,Laptops,Lenovo ThinkPad,1,80000,20,Priya Patel
+ORD-0675,21-03-2023,CUST-1655,Divya Shah,North,Delhi,Laptops,HP Pavilion,2,50700,25,Vikram Singh
+ORD-0676,21-04-2023,CUST-8896,Nisha Ghosh,Central,Raipur,Accessories,USB-C Cable,2,1700,0,Sneha Reddy
+ORD-0677,21-04-2023,CUST-2454,Ishita Bansal,South,Kochi,Laptops,Lenovo ThinkPad,1,63300,5,Priya Patel
+ORD-0678,21-05-2023,CUST-9848,Karan Verma,South,Kochi,Smartphones,OnePlus Nord,1,42300,20,Kavya Iyer
+ORD-0679,21-05-2023,CUST-9848,Karan Verma,North,Delhi,Accessories,USB-C Cable,1,1700,20,Rahul Sharma
+ORD-0680,21-05-2023,CUST-0208,Arjun Nair,West,Ahmedabad,Tablets,Amazon Fire HD,1,45400,0,Rohan Mehta
+ORD-0681,21-06-2023,CUST-7626,Akash Pillai,East,Ranchi,Wearables,Mi Band 7,1,18900,0,Kavya Iyer
+ORD-0682,21-06-2023,CUST-7920,Sakshi Rathore,North,Chandigarh,Tablets,iPad Air,1,28300,5,Sneha Reddy
+ORD-0683,21-07-2023,CUST-2255,Rajesh Kumar,Central,Raipur,Smartphones,Samsung Galaxy S23,1,43200,10,Rohan Mehta
+ORD-0684,21-07-2023,CUST-7862,Meera Chawla,Central,Bhopal,Laptops,ASUS VivoBook,1,66300,0,Amit Kumar
+ORD-0685,21-08-2023,CUST-3234,Nikhil Jain,West,Mumbai,Laptops,ASUS VivoBook,2,64000,0,Kavya Iyer
+ORD-0686,21-08-2023,CUST-2255,Rajesh Kumar,West,Surat,Laptops,Acer Aspire,1,80000,25,Sneha Reddy
+ORD-0687,21-08-2023,CUST-7955,Riya Malhotra,North,Delhi,Tablets,iPad Air,1,45300,20,Vikram Singh
+ORD-0688,21-08-2023,CUST-7862,Meera Chawla,West,Pune,Accessories,Mechanical Keyboard,2,900,10,Rahul Sharma
+ORD-0689,21-08-2023,CUST-7344,Rohan Mehta,East,Patna,Wearables,Mi Band 7,1,18700,10,Sneha Reddy
+ORD-0690,21-08-2023,CUST-2255,Rajesh Kumar,North,Delhi,Smartphones,Xiaomi 13,1,33700,0,Rohan Mehta
+ORD-0691,21-08-2023,CUST-0908,Gaurav Bhatt,North,Delhi,Smartphones,Xiaomi 13,1,41000,10,Kavya Iyer
+ORD-0692,21-08-2023,CUST-7955,Riya Malhotra,East,Bhubaneswar,Tablets,Lenovo Tab P11,1,37400,5,Priya Patel
+ORD-0693,21-09-2023,CUST-0208,Arjun Nair,North,Jaipur,Accessories,Wireless Mouse,2,700,5,Amit Kumar
+ORD-0694,21-09-2023,CUST-1014,Anjali Gupta,West,Surat,Tablets,Amazon Fire HD,1,26900,0,Rohan Mehta
+ORD-0695,21-09-2023,CUST-4996,Varun Chopra,West,Surat,Tablets,iPad Air,1,40100,5,Anjali Gupta
+ORD-0696,21-09-2023,CUST-7107,Yash Dhawan,West,Surat,Accessories,Laptop Bag,2,1300,0,Sneha Reddy
+ORD-0697,21-10-2023,CUST-7344,Rohan Mehta,West,Pune,Laptops,Acer Aspire,2,67900,0,Vikram Singh
+ORD-0698,21-10-2023,CUST-2605,Tanvi Kulkarni,South,Chennai,Laptops,Lenovo ThinkPad,1,74100,25,Kavya Iyer
+ORD-0699,21-10-2023,CUST-8896,Nisha Ghosh,West,Surat,Accessories,Wireless Mouse,3,1100,10,Amit Kumar
+ORD-0700,21-10-2023,CUST-9646,Amit Patel,South,Kochi,Tablets,iPad Air,1,22900,15,Amit Kumar
+ORD-0701,21-10-2023,CUST-9646,Amit Patel,South,Kochi,Tablets,iPad Air,1,35300,10,Amit Kumar
+ORD-0702,21-10-2023,CUST-3666,Manish Arora,Central,Indore,Smartphones,Realme GT,2,48900,0,Amit Kumar
+ORD-0703,21-11-2023,CUST-8941,Harsh Sinha,East,Bhubaneswar,Tablets,Samsung Tab S8,1,29200,10,Priya Patel
+ORD-0704,21-12-2023,CUST-4921,Simran Kaur,West,Pune,Smartphones,OnePlus Nord,1,34600,5,Priya Patel
+ORD-0705,22-01-2023,CUST-3585,Rahul Kapoor,East,Patna,Accessories,Webcam,2,2300,15,Rahul Sharma
+ORD-0706,22-02-2023,CUST-3979,Pooja Desai,Central,Nagpur,Laptops,Acer Aspire,1,51300,5,Anjali Gupta
+ORD-0707,22-02-2023,CUST-3585,Rahul Kapoor,East,Patna,Smartphones,Xiaomi 13,1,60000,0,Priya Patel
+ORD-0708,22-02-2023,CUST-6316,Sameer Dutta,North,Delhi,Tablets,iPad Air,1,26700,25,Anjali Gupta
+ORD-0709,22-03-2023,CUST-4996,Varun Chopra,North,Chandigarh,Accessories,Webcam,2,2100,15,Rahul Sharma
+ORD-0710,22-03-2023,CUST-7626,Akash Pillai,East,Kolkata,Wearables,Apple Watch Series 8,1,14500,5,Rahul Sharma
+ORD-0711,22-04-2023,CUST-4723,Kunal Dixit,South,Bangalore,Wearables,Fitbit Versa 4,1,21000,20,Sneha Reddy
+ORD-0712,22-04-2023,CUST-4234,Sanjay Joshi,Central,Nagpur,Smartphones,iPhone 14,1,40600,15,Sneha Reddy
+ORD-0713,22-04-2023,CUST-8941,Harsh Sinha,North,Delhi,Smartphones,Samsung Galaxy S23,2,36400,25,Anjali Gupta
+ORD-0714,22-04-2023,CUST-6769,Vikram Reddy,Central,Bhopal,Laptops,ASUS VivoBook,1,46200,10,Rahul Sharma
+ORD-0715,22-04-2023,CUST-9646,Amit Patel,Central,Bhopal,Accessories,USB-C Cable,2,800,0,Priya Patel
+ORD-0716,22-05-2023,CUST-4234,Sanjay Joshi,West,Ahmedabad,Accessories,Laptop Bag,2,2600,25,Rahul Sharma
+ORD-0717,22-05-2023,CUST-1655,Divya Shah,East,Patna,Tablets,Lenovo Tab P11,1,37600,5,Sneha Reddy
+ORD-0718,22-05-2023,CUST-9646,Amit Patel,Central,Bhopal,Accessories,Mechanical Keyboard,2,1700,0,Kavya Iyer
+ORD-0719,22-06-2023,CUST-3979,Pooja Desai,North,Chandigarh,Tablets,Samsung Tab S8,1,29300,15,Anjali Gupta
+ORD-0720,22-06-2023,CUST-1930,Ritika Menon,East,Patna,Smartphones,iPhone 14,1,33100,10,Anjali Gupta
+ORD-0721,22-06-2023,CUST-3585,Rahul Kapoor,East,Patna,Tablets,Amazon Fire HD,1,29700,0,Amit Kumar
+ORD-0722,22-07-2023,CUST-6769,Vikram Reddy,Central,Indore,Wearables,Fitbit Versa 4,1,21200,5,Vikram Singh
+ORD-0723,22-07-2023,CUST-6348,Shreya Pandey,East,Bhubaneswar,Laptops,ASUS VivoBook,2,46000,5,Rahul Sharma
+ORD-0724,22-08-2023,CUST-1930,Ritika Menon,Central,Nagpur,Accessories,Mechanical Keyboard,2,2000,10,Anjali Gupta
+ORD-0725,22-08-2023,CUST-9409,Mohit Saxena,Central,Nagpur,Laptops,Dell Inspiron,1,43700,5,Anjali Gupta
+ORD-0726,22-08-2023,CUST-4921,Simran Kaur,West,Pune,Accessories,Laptop Bag,3,900,10,Amit Kumar
+ORD-0727,22-09-2023,CUST-2454,Ishita Bansal,North,Chandigarh,Laptops,ASUS VivoBook,1,51700,5,Anjali Gupta
+ORD-0728,22-09-2023,CUST-3234,Nikhil Jain,East,Ranchi,Smartphones,Realme GT,1,37700,10,Anjali Gupta
+ORD-0729,22-09-2023,CUST-0208,Arjun Nair,South,Kochi,Tablets,Amazon Fire HD,1,38400,15,Vikram Singh
+ORD-0730,22-09-2023,CUST-1014,Anjali Gupta,Central,Bhopal,Tablets,Samsung Tab S8,1,41700,5,Rohan Mehta
+ORD-0731,22-10-2023,CUST-3979,Pooja Desai,South,Kochi,Tablets,Lenovo Tab P11,1,41100,0,Rahul Sharma
+ORD-0732,22-10-2023,CUST-2255,Rajesh Kumar,East,Patna,Laptops,ASUS VivoBook,1,46000,5,Rahul Sharma
+ORD-0733,22-10-2023,CUST-5788,Neha Agarwal,West,Surat,Smartphones,Xiaomi 13,1,36400,20,Amit Kumar
+ORD-0734,22-11-2023,CUST-6769,Vikram Reddy,West,Ahmedabad,Tablets,iPad Air,1,35500,10,Anjali Gupta
+ORD-0735,22-12-2023,CUST-8896,Nisha Ghosh,Central,Indore,Wearables,Samsung Galaxy Watch,1,29100,10,Amit Kumar
+ORD-0736,22-12-2023,CUST-2255,Rajesh Kumar,East,Ranchi,Accessories,USB-C Cable,3,2400,25,Priya Patel
+ORD-0737,22-12-2023,CUST-3178,Ananya Bose,West,Pune,Tablets,Amazon Fire HD,1,43200,5,Anjali Gupta
+ORD-0738,23-01-2023,CUST-1655,Divya Shah,South,Hyderabad,Wearables,Fitbit Versa 4,1,18400,0,Amit Kumar
+ORD-0739,23-01-2023,CUST-8941,Harsh Sinha,North,Jaipur,Laptops,ASUS VivoBook,1,69300,10,Amit Kumar
+ORD-0740,23-01-2023,CUST-0051,Sneha Sharma,Central,Raipur,Tablets,Samsung Tab S8,1,45300,5,Vikram Singh
+ORD-0741,23-01-2023,CUST-7644,Siddharth Tiwari,North,Lucknow,Smartphones,OnePlus Nord,1,41200,0,Rohan Mehta
+ORD-0742,23-02-2023,CUST-2605,Tanvi Kulkarni,South,Chennai,Wearables,Mi Band 7,1,29900,20,Amit Kumar
+ORD-0743,23-03-2023,CUST-7644,Siddharth Tiwari,North,Chandigarh,Wearables,Mi Band 7,2,18200,25,Amit Kumar
+ORD-0744,23-04-2023,CUST-4996,Varun Chopra,East,Kolkata,Tablets,Samsung Tab S8,1,34600,20,Amit Kumar
+ORD-0745,23-04-2023,CUST-4921,Simran Kaur,Central,Raipur,Tablets,Samsung Tab S8,1,43900,0,Anjali Gupta
+ORD-0746,23-05-2023,CUST-3523,Aditya Rao,East,Bhubaneswar,Wearables,Samsung Galaxy Watch,1,22300,5,Rahul Sharma
+ORD-0747,23-05-2023,CUST-4813,Swati Nambiar,Central,Indore,Accessories,Webcam,1,1000,25,Rahul Sharma
+ORD-0748,23-05-2023,CUST-1655,Divya Shah,North,Lucknow,Laptops,Acer Aspire,1,64500,5,Anjali Gupta
+ORD-0749,23-05-2023,CUST-1014,Anjali Gupta,South,Bangalore,Laptops,Acer Aspire,1,55600,15,Rohan Mehta
+ORD-0750,23-05-2023,CUST-0051,Sneha Sharma,Central,Indore,Laptops,ASUS VivoBook,2,73200,0,Priya Patel
+ORD-0751,23-05-2023,CUST-3666,Manish Arora,West,Pune,Wearables,Fitbit Versa 4,1,20100,25,Kavya Iyer
+ORD-0752,23-06-2023,CUST-6316,Sameer Dutta,West,Pune,Wearables,Mi Band 7,1,11500,0,Priya Patel
+ORD-0753,23-06-2023,CUST-1014,Anjali Gupta,Central,Bhopal,Smartphones,Xiaomi 13,1,35000,0,Amit Kumar
+ORD-0754,23-08-2023,CUST-6316,Sameer Dutta,North,Lucknow,Accessories,Webcam,2,900,10,Rohan Mehta
+ORD-0755,23-08-2023,CUST-7145,Kavya Iyer,Central,Raipur,Wearables,Apple Watch Series 8,1,11800,25,Vikram Singh
+ORD-0756,23-08-2023,CUST-2605,Tanvi Kulkarni,North,Jaipur,Tablets,iPad Air,1,30900,10,Rohan Mehta
+ORD-0757,23-08-2023,CUST-0051,Sneha Sharma,Central,Indore,Accessories,Wireless Mouse,3,1700,20,Rohan Mehta
+ORD-0758,23-08-2023,CUST-8896,Nisha Ghosh,East,Kolkata,Wearables,Mi Band 7,1,14500,5,Sneha Reddy
+ORD-0759,23-09-2023,CUST-7955,Riya Malhotra,East,Kolkata,Tablets,Samsung Tab S8,1,40700,20,Amit Kumar
+ORD-0760,23-09-2023,CUST-7955,Riya Malhotra,East,Ranchi,Accessories,Wireless Mouse,2,700,5,Amit Kumar
+ORD-0761,23-09-2023,CUST-3585,Rahul Kapoor,South,Hyderabad,Smartphones,iPhone 14,1,35000,10,Anjali Gupta
+ORD-0762,23-09-2023,CUST-8896,Nisha Ghosh,West,Mumbai,Laptops,Lenovo ThinkPad,1,80000,0,Amit Kumar
+ORD-0763,23-10-2023,CUST-4813,Swati Nambiar,West,Pune,Accessories,USB-C Cable,2,700,20,Rohan Mehta
+ORD-0764,23-10-2023,CUST-7920,Sakshi Rathore,Central,Nagpur,Smartphones,OnePlus Nord,1,40300,0,Sneha Reddy
+ORD-0765,23-11-2023,CUST-4996,Varun Chopra,East,Ranchi,Tablets,iPad Air,1,29700,15,Amit Kumar
+ORD-0766,23-11-2023,CUST-3178,Ananya Bose,East,Kolkata,Accessories,Wireless Mouse,3,2200,5,Kavya Iyer
+ORD-0767,23-11-2023,CUST-0208,Arjun Nair,West,Mumbai,Wearables,Apple Watch Series 8,1,13200,10,Sneha Reddy
+ORD-0768,23-11-2023,CUST-3523,Aditya Rao,South,Chennai,Wearables,Samsung Galaxy Watch,1,22900,0,Priya Patel
+ORD-0769,23-12-2023,CUST-3178,Ananya Bose,South,Hyderabad,Laptops,Dell Inspiron,1,69800,0,Rohan Mehta
+ORD-0770,24-01-2023,CUST-8896,Nisha Ghosh,East,Kolkata,Tablets,Lenovo Tab P11,1,41900,10,Amit Kumar
+ORD-0771,24-01-2023,CUST-8941,Harsh Sinha,South,Hyderabad,Laptops,HP Pavilion,1,51200,0,Vikram Singh
+ORD-0772,24-01-2023,CUST-4559,Aarti Shetty,Central,Indore,Smartphones,Samsung Galaxy S23,1,54300,5,Rohan Mehta
+ORD-0773,24-01-2023,CUST-7644,Siddharth Tiwari,North,Jaipur,Smartphones,OnePlus Nord,1,44600,10,Vikram Singh
+ORD-0774,24-01-2023,CUST-7862,Meera Chawla,North,Jaipur,Tablets,Amazon Fire HD,1,49300,20,Amit Kumar
+ORD-0775,24-02-2023,CUST-3174,Pallavi Krishnan,East,Kolkata,Tablets,Amazon Fire HD,1,43200,10,Rohan Mehta
+ORD-0776,24-02-2023,CUST-7955,Riya Malhotra,North,Delhi,Tablets,Amazon Fire HD,1,40200,10,Priya Patel
+ORD-0777,24-03-2023,CUST-8896,Nisha Ghosh,North,Delhi,Tablets,Amazon Fire HD,1,48800,0,Amit Kumar
+ORD-0778,24-04-2023,CUST-3178,Ananya Bose,West,Ahmedabad,Laptops,ASUS VivoBook,1,50800,0,Anjali Gupta
+ORD-0779,24-04-2023,CUST-7626,Akash Pillai,South,Hyderabad,Laptops,Lenovo ThinkPad,1,66000,20,Amit Kumar
+ORD-0780,24-04-2023,CUST-2605,Tanvi Kulkarni,West,Ahmedabad,Accessories,Mechanical Keyboard,2,1200,0,Priya Patel
+ORD-0781,24-06-2023,CUST-3523,Aditya Rao,South,Chennai,Smartphones,Samsung Galaxy S23,1,47200,25,Priya Patel
+ORD-0782,24-06-2023,CUST-2605,Tanvi Kulkarni,West,Mumbai,Smartphones,iPhone 14,1,32600,10,Kavya Iyer
+ORD-0783,24-06-2023,CUST-8941,Harsh Sinha,North,Lucknow,Wearables,Samsung Galaxy Watch,1,18400,15,Kavya Iyer
+ORD-0784,24-06-2023,CUST-3585,Rahul Kapoor,South,Bangalore,Smartphones,iPhone 14,1,37100,20,Sneha Reddy
+ORD-0785,24-06-2023,CUST-4813,Swati Nambiar,West,Pune,Laptops,ASUS VivoBook,1,49000,20,Sneha Reddy
+ORD-0786,24-06-2023,CUST-7107,Yash Dhawan,South,Kochi,Accessories,Webcam,2,1000,10,Sneha Reddy
+ORD-0787,24-08-2023,CUST-9409,Mohit Saxena,West,Surat,Laptops,ASUS VivoBook,1,58800,15,Priya Patel
+ORD-0788,24-09-2023,CUST-4723,Kunal Dixit,West,Mumbai,Wearables,Mi Band 7,1,32400,0,Amit Kumar
+ORD-0789,24-09-2023,CUST-4996,Varun Chopra,West,Surat,Smartphones,Realme GT,1,30600,5,Sneha Reddy
+ORD-0790,24-09-2023,CUST-7344,Rohan Mehta,West,Ahmedabad,Accessories,Wireless Mouse,3,1900,25,Amit Kumar
+ORD-0791,24-10-2023,CUST-4723,Kunal Dixit,East,Bhubaneswar,Laptops,Lenovo ThinkPad,1,59000,10,Amit Kumar
+ORD-0792,24-10-2023,CUST-3174,Pallavi Krishnan,Central,Indore,Accessories,Laptop Bag,2,1800,10,Priya Patel
+ORD-0793,24-11-2023,CUST-0208,Arjun Nair,North,Delhi,Tablets,Samsung Tab S8,1,34000,5,Priya Patel
+ORD-0794,24-12-2023,CUST-0051,Sneha Sharma,Central,Indore,Laptops,Acer Aspire,1,49900,10,Anjali Gupta
+ORD-0795,24-12-2023,CUST-4234,Sanjay Joshi,East,Kolkata,Tablets,Samsung Tab S8,1,30700,25,Kavya Iyer
+ORD-0796,25-01-2023,CUST-7145,Kavya Iyer,South,Kochi,Wearables,Mi Band 7,1,15500,0,Kavya Iyer
+ORD-0797,25-01-2023,CUST-3178,Ananya Bose,East,Patna,Laptops,Lenovo ThinkPad,2,37700,10,Kavya Iyer
+ORD-0798,25-02-2023,CUST-0208,Arjun Nair,South,Chennai,Smartphones,Realme GT,1,34000,15,Rohan Mehta
+ORD-0799,25-02-2023,CUST-6316,Sameer Dutta,West,Pune,Smartphones,OnePlus Nord,1,45100,25,Amit Kumar
+ORD-0800,25-03-2023,CUST-1014,Anjali Gupta,West,Surat,Smartphones,Realme GT,1,48800,25,Amit Kumar
+ORD-0801,25-03-2023,CUST-6348,Shreya Pandey,South,Chennai,Accessories,Wireless Mouse,2,1400,10,Sneha Reddy
+ORD-0802,25-04-2023,CUST-2605,Tanvi Kulkarni,South,Hyderabad,Tablets,Amazon Fire HD,1,48900,0,Anjali Gupta
+ORD-0803,25-04-2023,CUST-8896,Nisha Ghosh,North,Delhi,Tablets,Amazon Fire HD,1,20000,20,Rohan Mehta
+ORD-0804,25-05-2023,CUST-8896,Nisha Ghosh,West,Surat,Tablets,iPad Air,1,46100,0,Amit Kumar
+ORD-0805,25-05-2023,CUST-4234,Sanjay Joshi,North,Delhi,Accessories,Mechanical Keyboard,1,1600,25,Vikram Singh
+ORD-0806,25-06-2023,CUST-4559,Aarti Shetty,South,Kochi,Tablets,Lenovo Tab P11,1,38400,0,Amit Kumar
+ORD-0807,25-08-2023,CUST-7955,Riya Malhotra,North,Jaipur,Accessories,USB-C Cable,2,2200,20,Rohan Mehta
+ORD-0808,25-08-2023,CUST-9409,Mohit Saxena,West,Mumbai,Wearables,Samsung Galaxy Watch,1,20000,25,Rahul Sharma
+ORD-0809,25-08-2023,CUST-7344,Rohan Mehta,South,Hyderabad,Tablets,Samsung Tab S8,1,27800,20,Rohan Mehta
+ORD-0810,25-09-2023,CUST-7955,Riya Malhotra,East,Ranchi,Accessories,Laptop Bag,2,2000,25,Anjali Gupta
+ORD-0811,25-09-2023,CUST-9646,Amit Patel,South,Hyderabad,Accessories,USB-C Cable,3,2200,0,Kavya Iyer
+ORD-0812,25-10-2023,CUST-4559,Aarti Shetty,North,Lucknow,Tablets,Lenovo Tab P11,1,24700,0,Vikram Singh
+ORD-0813,25-10-2023,CUST-2605,Tanvi Kulkarni,South,Hyderabad,Smartphones,Realme GT,1,43100,15,Kavya Iyer
+ORD-0814,25-10-2023,CUST-7344,Rohan Mehta,West,Ahmedabad,Tablets,Samsung Tab S8,1,37700,5,Vikram Singh
+ORD-0815,25-11-2023,CUST-4813,Swati Nambiar,Central,Nagpur,Smartphones,Realme GT,1,52900,10,Rahul Sharma
+ORD-0816,25-11-2023,CUST-7145,Kavya Iyer,Central,Raipur,Wearables,Samsung Galaxy Watch,1,17500,0,Vikram Singh
+ORD-0817,25-12-2023,CUST-4921,Simran Kaur,North,Lucknow,Wearables,Mi Band 7,1,25200,15,Vikram Singh
+ORD-0818,26-01-2023,CUST-7862,Meera Chawla,Central,Indore,Laptops,ASUS VivoBook,1,51100,0,Anjali Gupta
+ORD-0819,26-01-2023,CUST-4723,Kunal Dixit,Central,Bhopal,Laptops,HP Pavilion,1,55400,0,Kavya Iyer
+ORD-0820,26-01-2023,CUST-9409,Mohit Saxena,East,Ranchi,Tablets,Samsung Tab S8,1,25100,15,Anjali Gupta
+ORD-0821,26-01-2023,CUST-8941,Harsh Sinha,South,Bangalore,Accessories,Wireless Mouse,1,1600,0,Rahul Sharma
+ORD-0822,26-01-2023,CUST-4921,Simran Kaur,Central,Indore,Wearables,Mi Band 7,1,25200,10,Priya Patel
+ORD-0823,26-02-2023,CUST-4559,Aarti Shetty,Central,Indore,Accessories,USB-C Cable,2,800,5,Rahul Sharma
+ORD-0824,26-02-2023,CUST-7862,Meera Chawla,South,Hyderabad,Tablets,Amazon Fire HD,1,29000,0,Vikram Singh
+ORD-0825,26-02-2023,CUST-3585,Rahul Kapoor,West,Surat,Accessories,Mechanical Keyboard,3,2700,10,Vikram Singh
+ORD-0826,26-02-2023,CUST-3178,Ananya Bose,East,Kolkata,Smartphones,Xiaomi 13,1,42800,25,Anjali Gupta
+ORD-0827,26-02-2023,CUST-3174,Pallavi Krishnan,Central,Nagpur,Laptops,Lenovo ThinkPad,2,77700,10,Priya Patel
+ORD-0828,26-03-2023,CUST-7107,Yash Dhawan,West,Surat,Tablets,Amazon Fire HD,1,45600,0,Anjali Gupta
+ORD-0829,26-03-2023,CUST-1930,Ritika Menon,East,Ranchi,Laptops,HP Pavilion,1,80000,25,Priya Patel
+ORD-0830,26-03-2023,CUST-2454,Ishita Bansal,East,Patna,Accessories,Wireless Mouse,2,2100,15,Rohan Mehta
+ORD-0831,26-03-2023,CUST-3666,Manish Arora,Central,Indore,Smartphones,iPhone 14,1,28700,0,Anjali Gupta
+ORD-0832,26-04-2023,CUST-4723,Kunal Dixit,East,Bhubaneswar,Accessories,Wireless Mouse,2,2000,20,Rohan Mehta
+ORD-0833,26-04-2023,CUST-2605,Tanvi Kulkarni,Central,Bhopal,Wearables,Apple Watch Series 8,1,18300,25,Vikram Singh
+ORD-0834,26-04-2023,CUST-0908,Gaurav Bhatt,South,Chennai,Laptops,Dell Inspiron,1,47300,5,Priya Patel
+ORD-0835,26-04-2023,CUST-3234,Nikhil Jain,East,Kolkata,Smartphones,Samsung Galaxy S23,1,33100,0,Rohan Mehta
+ORD-0836,26-05-2023,CUST-3585,Rahul Kapoor,Central,Raipur,Wearables,Samsung Galaxy Watch,1,19000,0,Rohan Mehta
+ORD-0837,26-06-2023,CUST-9670,Priya Singh,Central,Nagpur,Accessories,USB-C Cable,2,3000,0,Anjali Gupta
+ORD-0838,26-06-2023,CUST-4921,Simran Kaur,East,Ranchi,Accessories,USB-C Cable,1,1900,5,Rohan Mehta
+ORD-0839,26-06-2023,CUST-7145,Kavya Iyer,Central,Nagpur,Laptops,ASUS VivoBook,1,52300,20,Rohan Mehta
+ORD-0840,26-07-2023,CUST-8896,Nisha Ghosh,East,Bhubaneswar,Laptops,Lenovo ThinkPad,1,60700,15,Vikram Singh
+ORD-0841,26-08-2023,CUST-2255,Rajesh Kumar,Central,Bhopal,Accessories,USB-C Cable,3,2000,20,Sneha Reddy
+ORD-0842,26-08-2023,CUST-1655,Divya Shah,South,Hyderabad,Laptops,HP Pavilion,1,70300,0,Kavya Iyer
+ORD-0843,26-08-2023,CUST-3666,Manish Arora,South,Chennai,Tablets,Amazon Fire HD,1,37800,25,Rohan Mehta
+ORD-0844,26-09-2023,CUST-0208,Arjun Nair,North,Delhi,Laptops,Dell Inspiron,1,65700,10,Sneha Reddy
+ORD-0845,26-09-2023,CUST-0908,Gaurav Bhatt,East,Kolkata,Wearables,Apple Watch Series 8,1,23200,10,Rahul Sharma
+ORD-0846,26-10-2023,CUST-9409,Mohit Saxena,West,Mumbai,Laptops,ASUS VivoBook,1,60200,0,Rohan Mehta
+ORD-0847,26-10-2023,CUST-2454,Ishita Bansal,Central,Indore,Accessories,Mechanical Keyboard,2,2400,0,Anjali Gupta
+ORD-0848,26-10-2023,CUST-4234,Sanjay Joshi,Central,Nagpur,Laptops,Dell Inspiron,1,48900,0,Kavya Iyer
+ORD-0849,26-10-2023,CUST-3666,Manish Arora,South,Chennai,Tablets,Lenovo Tab P11,1,37900,0,Rohan Mehta
+ORD-0850,26-11-2023,CUST-1930,Ritika Menon,West,Ahmedabad,Accessories,Webcam,1,1300,10,Vikram Singh
+ORD-0851,26-11-2023,CUST-6769,Vikram Reddy,South,Kochi,Accessories,Mechanical Keyboard,2,2400,0,Kavya Iyer
+ORD-0852,26-11-2023,CUST-7344,Rohan Mehta,North,Delhi,Accessories,Laptop Bag,2,1800,10,Kavya Iyer
+ORD-0853,26-11-2023,CUST-0051,Sneha Sharma,South,Kochi,Tablets,Lenovo Tab P11,1,30100,15,Priya Patel
+ORD-0854,26-12-2023,CUST-4723,Kunal Dixit,North,Delhi,Smartphones,Xiaomi 13,1,21000,0,Priya Patel
+ORD-0855,26-12-2023,CUST-7344,Rohan Mehta,South,Bangalore,Smartphones,Samsung Galaxy S23,1,42300,5,Kavya Iyer
+ORD-0856,27-01-2023,CUST-2255,Rajesh Kumar,South,Bangalore,Smartphones,Xiaomi 13,1,27400,10,Amit Kumar
+ORD-0857,27-01-2023,CUST-7145,Kavya Iyer,West,Ahmedabad,Wearables,Apple Watch Series 8,1,31000,20,Vikram Singh
+ORD-0858,27-01-2023,CUST-0908,Gaurav Bhatt,South,Kochi,Accessories,Laptop Bag,2,2200,5,Sneha Reddy
+ORD-0859,27-01-2023,CUST-9646,Amit Patel,North,Chandigarh,Tablets,Amazon Fire HD,1,36300,25,Anjali Gupta
+ORD-0860,27-02-2023,CUST-1655,Divya Shah,North,Jaipur,Laptops,HP Pavilion,1,66000,15,Sneha Reddy
+ORD-0861,27-02-2023,CUST-6348,Shreya Pandey,Central,Indore,Wearables,Fitbit Versa 4,1,29800,15,Amit Kumar
+ORD-0862,27-02-2023,CUST-9409,Mohit Saxena,West,Surat,Laptops,Dell Inspiron,1,52100,5,Rahul Sharma
+ORD-0863,27-03-2023,CUST-8941,Harsh Sinha,East,Ranchi,Wearables,Apple Watch Series 8,1,12200,5,Rohan Mehta
+ORD-0864,27-03-2023,CUST-8941,Harsh Sinha,West,Surat,Accessories,USB-C Cable,2,2500,20,Priya Patel
+ORD-0865,27-03-2023,CUST-8896,Nisha Ghosh,Central,Bhopal,Wearables,Mi Band 7,1,15400,10,Priya Patel
+ORD-0866,27-03-2023,CUST-4813,Swati Nambiar,West,Ahmedabad,Accessories,Wireless Mouse,3,900,10,Rohan Mehta
+ORD-0867,27-05-2023,CUST-2255,Rajesh Kumar,West,Mumbai,Accessories,Laptop Bag,3,2000,5,Rohan Mehta
+ORD-0868,27-06-2023,CUST-7955,Riya Malhotra,East,Patna,Tablets,Samsung Tab S8,1,39000,20,Rahul Sharma
+ORD-0869,27-06-2023,CUST-6348,Shreya Pandey,West,Pune,Laptops,ASUS VivoBook,1,53900,5,Rohan Mehta
+ORD-0870,27-06-2023,CUST-7955,Riya Malhotra,Central,Nagpur,Smartphones,OnePlus Nord,1,42700,0,Priya Patel
+ORD-0871,27-06-2023,CUST-9848,Karan Verma,West,Pune,Wearables,Apple Watch Series 8,1,18900,0,Kavya Iyer
+ORD-0872,27-06-2023,CUST-3178,Ananya Bose,East,Bhubaneswar,Wearables,Fitbit Versa 4,1,25900,15,Rahul Sharma
+ORD-0873,27-08-2023,CUST-9409,Mohit Saxena,North,Chandigarh,Tablets,Samsung Tab S8,1,25700,10,Rohan Mehta
+ORD-0874,27-08-2023,CUST-7145,Kavya Iyer,East,Patna,Smartphones,Realme GT,1,29500,25,Amit Kumar
+ORD-0875,27-09-2023,CUST-6769,Vikram Reddy,West,Mumbai,Smartphones,Xiaomi 13,1,47200,0,Kavya Iyer
+ORD-0876,27-10-2023,CUST-5788,Neha Agarwal,West,Pune,Laptops,Acer Aspire,1,50200,0,Priya Patel
+ORD-0877,27-10-2023,CUST-7955,Riya Malhotra,South,Chennai,Laptops,HP Pavilion,1,51200,5,Rahul Sharma
+ORD-0878,27-10-2023,CUST-2454,Ishita Bansal,North,Chandigarh,Accessories,Wireless Mouse,2,1000,10,Rohan Mehta
+ORD-0879,27-10-2023,CUST-7344,Rohan Mehta,West,Pune,Wearables,Fitbit Versa 4,1,28000,0,Rohan Mehta
+ORD-0880,27-11-2023,CUST-9646,Amit Patel,North,Chandigarh,Accessories,Webcam,2,1800,20,Kavya Iyer
+ORD-0881,27-12-2023,CUST-4921,Simran Kaur,Central,Indore,Tablets,iPad Air,1,38200,10,Kavya Iyer
+ORD-0882,27-12-2023,CUST-4813,Swati Nambiar,East,Patna,Wearables,Mi Band 7,1,13900,15,Vikram Singh
+ORD-0883,27-12-2023,CUST-3178,Ananya Bose,South,Hyderabad,Tablets,Amazon Fire HD,1,20000,20,Priya Patel
+ORD-0884,27-12-2023,CUST-9409,Mohit Saxena,North,Delhi,Wearables,Fitbit Versa 4,1,29100,10,Sneha Reddy
+ORD-0885,27-12-2023,CUST-3174,Pallavi Krishnan,North,Delhi,Wearables,Samsung Galaxy Watch,1,19800,20,Anjali Gupta
+ORD-0886,27-12-2023,CUST-0208,Arjun Nair,North,Delhi,Smartphones,Xiaomi 13,1,49400,0,Sneha Reddy
+ORD-0887,28-01-2023,CUST-6316,Sameer Dutta,North,Chandigarh,Smartphones,Samsung Galaxy S23,1,56300,10,Rohan Mehta
+ORD-0888,28-01-2023,CUST-7644,Siddharth Tiwari,South,Kochi,Tablets,Amazon Fire HD,1,39900,10,Priya Patel
+ORD-0889,28-01-2023,CUST-7626,Akash Pillai,East,Kolkata,Tablets,Samsung Tab S8,1,33800,10,Sneha Reddy
+ORD-0890,28-02-2023,CUST-1014,Anjali Gupta,West,Pune,Smartphones,Xiaomi 13,1,42100,0,Rohan Mehta
+ORD-0891,28-02-2023,CUST-4921,Simran Kaur,East,Ranchi,Smartphones,Realme GT,1,60000,25,Rahul Sharma
+ORD-0892,28-02-2023,CUST-0051,Sneha Sharma,North,Chandigarh,Accessories,Wireless Mouse,2,2300,25,Amit Kumar
+ORD-0893,28-02-2023,CUST-9670,Priya Singh,Central,Indore,Wearables,Fitbit Versa 4,1,10000,20,Kavya Iyer
+ORD-0894,28-03-2023,CUST-3234,Nikhil Jain,North,Delhi,Wearables,Fitbit Versa 4,1,16200,10,Amit Kumar
+ORD-0895,28-03-2023,CUST-4921,Simran Kaur,North,Lucknow,Wearables,Samsung Galaxy Watch,1,27200,0,Vikram Singh
+ORD-0896,28-03-2023,CUST-6316,Sameer Dutta,North,Lucknow,Smartphones,OnePlus Nord,2,47600,5,Rohan Mehta
+ORD-0897,28-04-2023,CUST-4234,Sanjay Joshi,South,Kochi,Tablets,Samsung Tab S8,1,40800,5,Priya Patel
+ORD-0898,28-05-2023,CUST-1655,Divya Shah,South,Chennai,Laptops,Dell Inspiron,1,55200,0,Kavya Iyer
+ORD-0899,28-05-2023,CUST-3979,Pooja Desai,North,Lucknow,Accessories,USB-C Cable,2,600,15,Sneha Reddy
+ORD-0900,28-05-2023,CUST-7107,Yash Dhawan,West,Surat,Tablets,iPad Air,1,35600,0,Anjali Gupta
+ORD-0901,28-05-2023,CUST-7626,Akash Pillai,Central,Nagpur,Tablets,iPad Air,1,39500,25,Sneha Reddy
+ORD-0902,28-05-2023,CUST-4996,Varun Chopra,North,Chandigarh,Accessories,USB-C Cable,2,2100,0,Rahul Sharma
+ORD-0903,28-05-2023,CUST-4921,Simran Kaur,West,Surat,Laptops,Dell Inspiron,1,69800,25,Amit Kumar
+ORD-0904,28-06-2023,CUST-2255,Rajesh Kumar,West,Surat,Laptops,HP Pavilion,1,46600,25,Rohan Mehta
+ORD-0905,28-06-2023,CUST-0908,Gaurav Bhatt,East,Patna,Accessories,Mechanical Keyboard,2,2000,20,Anjali Gupta
+ORD-0906,28-07-2023,CUST-9670,Priya Singh,West,Surat,Accessories,Laptop Bag,2,500,10,Rohan Mehta
+ORD-0907,28-07-2023,CUST-4723,Kunal Dixit,East,Ranchi,Accessories,Wireless Mouse,2,1500,5,Rohan Mehta
+ORD-0908,28-08-2023,CUST-7107,Yash Dhawan,Central,Nagpur,Wearables,Mi Band 7,1,30200,0,Amit Kumar
+ORD-0909,28-09-2023,CUST-2605,Tanvi Kulkarni,East,Kolkata,Laptops,Acer Aspire,1,78300,5,Priya Patel
+ORD-0910,28-09-2023,CUST-2454,Ishita Bansal,Central,Raipur,Smartphones,Realme GT,1,34100,5,Rohan Mehta
+ORD-0911,28-10-2023,CUST-8896,Nisha Ghosh,Central,Nagpur,Laptops,ASUS VivoBook,1,56000,10,Rahul Sharma
+ORD-0912,28-10-2023,CUST-2255,Rajesh Kumar,South,Chennai,Tablets,Samsung Tab S8,1,29800,25,Vikram Singh
+ORD-0913,28-10-2023,CUST-0051,Sneha Sharma,North,Delhi,Tablets,Samsung Tab S8,1,23200,0,Rohan Mehta
+ORD-0914,28-11-2023,CUST-9646,Amit Patel,North,Jaipur,Laptops,ASUS VivoBook,1,58100,10,Priya Patel
+ORD-0915,28-11-2023,CUST-4234,Sanjay Joshi,North,Chandigarh,Tablets,iPad Air,1,27700,20,Rahul Sharma
+ORD-0916,28-12-2023,CUST-9670,Priya Singh,West,Surat,Wearables,Apple Watch Series 8,1,21600,0,Vikram Singh
+ORD-0917,29-01-2023,CUST-6316,Sameer Dutta,South,Hyderabad,Smartphones,Realme GT,1,60000,10,Rahul Sharma
+ORD-0918,29-03-2023,CUST-5788,Neha Agarwal,South,Kochi,Wearables,Fitbit Versa 4,1,35000,25,Vikram Singh
+ORD-0919,29-03-2023,CUST-1014,Anjali Gupta,Central,Nagpur,Wearables,Apple Watch Series 8,1,10000,0,Rahul Sharma
+ORD-0920,29-03-2023,CUST-0051,Sneha Sharma,East,Bhubaneswar,Accessories,USB-C Cable,2,1600,5,Amit Kumar
+ORD-0921,29-03-2023,CUST-0051,Sneha Sharma,North,Lucknow,Smartphones,Realme GT,1,29900,5,Kavya Iyer
+ORD-0922,29-04-2023,CUST-3523,Aditya Rao,East,Patna,Accessories,Wireless Mouse,3,2400,5,Sneha Reddy
+ORD-0923,29-05-2023,CUST-5788,Neha Agarwal,East,Kolkata,Laptops,ASUS VivoBook,1,51800,10,Amit Kumar
+ORD-0924,29-05-2023,CUST-4813,Swati Nambiar,North,Chandigarh,Wearables,Mi Band 7,1,25700,5,Kavya Iyer
+ORD-0925,29-05-2023,CUST-1655,Divya Shah,West,Surat,Laptops,ASUS VivoBook,1,35000,5,Amit Kumar
+ORD-0926,29-06-2023,CUST-7644,Siddharth Tiwari,East,Kolkata,Laptops,Dell Inspiron,1,60000,10,Rohan Mehta
+ORD-0927,29-06-2023,CUST-4234,Sanjay Joshi,South,Bangalore,Laptops,Dell Inspiron,1,61400,5,Rahul Sharma
+ORD-0928,29-07-2023,CUST-9646,Amit Patel,East,Kolkata,Laptops,Acer Aspire,1,55900,0,Amit Kumar
+ORD-0929,29-07-2023,CUST-7344,Rohan Mehta,Central,Nagpur,Tablets,Lenovo Tab P11,1,43300,5,Rahul Sharma
+ORD-0930,29-07-2023,CUST-1014,Anjali Gupta,West,Surat,Accessories,Laptop Bag,2,1800,0,Rahul Sharma
+ORD-0931,29-07-2023,CUST-0908,Gaurav Bhatt,South,Hyderabad,Accessories,Mechanical Keyboard,2,1500,20,Sneha Reddy
+ORD-0932,29-08-2023,CUST-2255,Rajesh Kumar,North,Lucknow,Laptops,Dell Inspiron,1,72600,5,Priya Patel
+ORD-0933,29-08-2023,CUST-4996,Varun Chopra,South,Hyderabad,Wearables,Mi Band 7,1,33900,15,Rohan Mehta
+ORD-0934,29-08-2023,CUST-3585,Rahul Kapoor,South,Chennai,Accessories,USB-C Cable,2,1600,5,Sneha Reddy
+ORD-0935,29-08-2023,CUST-3523,Aditya Rao,West,Surat,Tablets,Samsung Tab S8,1,23600,0,Kavya Iyer
+ORD-0936,29-10-2023,CUST-3585,Rahul Kapoor,West,Mumbai,Accessories,USB-C Cable,2,1600,10,Anjali Gupta
+ORD-0937,29-10-2023,CUST-7344,Rohan Mehta,West,Ahmedabad,Wearables,Apple Watch Series 8,1,23500,25,Sneha Reddy
+ORD-0938,29-10-2023,CUST-7107,Yash Dhawan,South,Bangalore,Accessories,Webcam,2,2500,10,Kavya Iyer
+ORD-0939,29-11-2023,CUST-0908,Gaurav Bhatt,East,Bhubaneswar,Smartphones,Samsung Galaxy S23,1,44500,5,Amit Kumar
+ORD-0940,29-11-2023,CUST-5788,Neha Agarwal,Central,Nagpur,Accessories,Mechanical Keyboard,2,900,0,Amit Kumar
+ORD-0941,29-11-2023,CUST-3523,Aditya Rao,East,Bhubaneswar,Tablets,iPad Air,1,24400,10,Priya Patel
+ORD-0942,29-11-2023,CUST-2454,Ishita Bansal,West,Mumbai,Smartphones,Samsung Galaxy S23,1,44900,0,Kavya Iyer
+ORD-0943,29-12-2023,CUST-4921,Simran Kaur,East,Ranchi,Laptops,Lenovo ThinkPad,1,77700,5,Priya Patel
+ORD-0944,29-12-2023,CUST-7626,Akash Pillai,East,Bhubaneswar,Smartphones,Realme GT,1,32700,0,Amit Kumar
+ORD-0945,29-12-2023,CUST-6348,Shreya Pandey,West,Surat,Wearables,Fitbit Versa 4,1,28500,10,Vikram Singh
+ORD-0946,29-12-2023,CUST-8896,Nisha Ghosh,West,Mumbai,Wearables,Fitbit Versa 4,1,22000,10,Priya Patel
+ORD-0947,29-12-2023,CUST-1930,Ritika Menon,South,Kochi,Tablets,iPad Air,1,32200,10,Amit Kumar
+ORD-0948,30-01-2023,CUST-1930,Ritika Menon,Central,Raipur,Tablets,Samsung Tab S8,1,45800,0,Vikram Singh
+ORD-0949,30-03-2023,CUST-1655,Divya Shah,East,Kolkata,Laptops,HP Pavilion,1,66000,0,Sneha Reddy
+ORD-0950,30-03-2023,CUST-7862,Meera Chawla,North,Chandigarh,Laptops,Acer Aspire,1,37600,25,Anjali Gupta
+ORD-0951,30-03-2023,CUST-4723,Kunal Dixit,Central,Nagpur,Tablets,Samsung Tab S8,1,26500,0,Anjali Gupta
+ORD-0952,30-03-2023,CUST-3178,Ananya Bose,East,Ranchi,Smartphones,Realme GT,1,39700,25,Rahul Sharma
+ORD-0953,30-04-2023,CUST-8941,Harsh Sinha,West,Mumbai,Tablets,Amazon Fire HD,1,41400,10,Amit Kumar
+ORD-0954,30-04-2023,CUST-1655,Divya Shah,North,Jaipur,Smartphones,Realme GT,1,49500,0,Priya Patel
+ORD-0955,30-05-2023,CUST-9409,Mohit Saxena,West,Pune,Accessories,Webcam,2,1900,0,Kavya Iyer
+ORD-0956,30-05-2023,CUST-4234,Sanjay Joshi,Central,Indore,Laptops,Acer Aspire,1,54000,10,Rohan Mehta
+ORD-0957,30-05-2023,CUST-7644,Siddharth Tiwari,East,Patna,Accessories,USB-C Cable,2,2300,10,Vikram Singh
+ORD-0958,30-06-2023,CUST-7107,Yash Dhawan,South,Chennai,Wearables,Mi Band 7,2,23300,0,Rahul Sharma
+ORD-0959,30-06-2023,CUST-7107,Yash Dhawan,East,Ranchi,Smartphones,Realme GT,1,44400,0,Vikram Singh
+ORD-0960,30-07-2023,CUST-0908,Gaurav Bhatt,East,Ranchi,Accessories,Webcam,2,1900,25,Rahul Sharma
+ORD-0961,30-07-2023,CUST-5788,Neha Agarwal,South,Chennai,Wearables,Apple Watch Series 8,1,20300,25,Kavya Iyer
+ORD-0962,30-07-2023,CUST-4996,Varun Chopra,North,Delhi,Accessories,USB-C Cable,2,3000,5,Vikram Singh
+ORD-0963,30-08-2023,CUST-7862,Meera Chawla,North,Lucknow,Wearables,Fitbit Versa 4,1,20100,0,Vikram Singh
+ORD-0964,30-08-2023,CUST-4723,Kunal Dixit,North,Jaipur,Laptops,Acer Aspire,1,38800,0,Kavya Iyer
+ORD-0965,30-08-2023,CUST-3585,Rahul Kapoor,Central,Raipur,Laptops,Dell Inspiron,1,46600,5,Anjali Gupta
+ORD-0966,30-08-2023,CUST-4723,Kunal Dixit,South,Bangalore,Accessories,Webcam,2,2600,5,Rahul Sharma
+ORD-0967,30-09-2023,CUST-2255,Rajesh Kumar,West,Ahmedabad,Laptops,Acer Aspire,1,66400,10,Rohan Mehta
+ORD-0968,30-09-2023,CUST-3666,Manish Arora,West,Pune,Smartphones,Realme GT,1,39400,5,Amit Kumar
+ORD-0969,30-09-2023,CUST-3666,Manish Arora,East,Bhubaneswar,Tablets,Lenovo Tab P11,1,27700,5,Vikram Singh
+ORD-0970,30-10-2023,CUST-7107,Yash Dhawan,South,Bangalore,Wearables,Samsung Galaxy Watch,1,24600,20,Kavya Iyer
+ORD-0971,30-10-2023,CUST-9670,Priya Singh,West,Ahmedabad,Tablets,Lenovo Tab P11,1,35800,0,Rahul Sharma
+ORD-0972,30-10-2023,CUST-7107,Yash Dhawan,Central,Raipur,Wearables,Mi Band 7,1,26300,20,Vikram Singh
+ORD-0973,30-11-2023,CUST-9848,Karan Verma,South,Hyderabad,Wearables,Apple Watch Series 8,1,21300,0,Rahul Sharma
+ORD-0974,30-11-2023,CUST-6348,Shreya Pandey,Central,Nagpur,Tablets,Amazon Fire HD,1,26700,25,Vikram Singh
+ORD-0975,30-12-2023,CUST-9409,Mohit Saxena,West,Ahmedabad,Laptops,ASUS VivoBook,1,55100,0,Amit Kumar
+ORD-0976,30-12-2023,CUST-4996,Varun Chopra,Central,Indore,Smartphones,iPhone 14,1,53000,10,Kavya Iyer
+ORD-0977,30-12-2023,CUST-4921,Simran Kaur,North,Delhi,Tablets,iPad Air,1,39600,0,Amit Kumar
+ORD-0978,30-12-2023,CUST-3174,Pallavi Krishnan,East,Ranchi,Tablets,Amazon Fire HD,2,38100,10,Kavya Iyer
+ORD-0979,30-12-2023,CUST-3666,Manish Arora,North,Lucknow,Wearables,Mi Band 7,1,18300,25,Rohan Mehta
+ORD-0980,31-03-2023,CUST-7145,Kavya Iyer,North,Lucknow,Tablets,Lenovo Tab P11,1,38000,10,Priya Patel
+ORD-0981,31-03-2023,CUST-8941,Harsh Sinha,Central,Nagpur,Smartphones,Realme GT,1,41300,0,Vikram Singh
+ORD-0982,31-05-2023,CUST-5788,Neha Agarwal,North,Chandigarh,Smartphones,OnePlus Nord,1,42500,20,Anjali Gupta
+ORD-0983,31-05-2023,CUST-7626,Akash Pillai,West,Pune,Accessories,Wireless Mouse,2,1100,5,Amit Kumar
+ORD-0984,31-07-2023,CUST-4234,Sanjay Joshi,North,Lucknow,Tablets,Samsung Tab S8,1,39900,0,Vikram Singh
+ORD-0985,31-07-2023,CUST-7644,Siddharth Tiwari,South,Chennai,Smartphones,Samsung Galaxy S23,1,15400,0,Kavya Iyer
+ORD-0986,31-07-2023,CUST-4234,Sanjay Joshi,West,Ahmedabad,Accessories,USB-C Cable,2,2300,0,Priya Patel
+ORD-0987,31-07-2023,CUST-3523,Aditya Rao,South,Chennai,Laptops,HP Pavilion,1,56900,5,Priya Patel
+ORD-0988,31-07-2023,CUST-5788,Neha Agarwal,East,Patna,Laptops,Acer Aspire,1,47900,25,Rohan Mehta
+ORD-0989,31-07-2023,CUST-7107,Yash Dhawan,West,Ahmedabad,Wearables,Fitbit Versa 4,1,28300,25,Sneha Reddy
+ORD-0990,31-08-2023,CUST-1014,Anjali Gupta,Central,Nagpur,Tablets,Samsung Tab S8,1,40300,5,Vikram Singh
+ORD-0991,31-08-2023,CUST-7344,Rohan Mehta,South,Chennai,Laptops,Lenovo ThinkPad,1,35000,10,Vikram Singh
+ORD-0992,31-08-2023,CUST-7107,Yash Dhawan,North,Jaipur,Accessories,Mechanical Keyboard,2,1500,15,Anjali Gupta
+ORD-0993,31-08-2023,CUST-4234,Sanjay Joshi,East,Ranchi,Accessories,Wireless Mouse,2,1700,5,Priya Patel
+ORD-0994,31-10-2023,CUST-9646,Amit Patel,South,Bangalore,Tablets,iPad Air,1,39900,25,Anjali Gupta
+ORD-0995,31-10-2023,CUST-9670,Priya Singh,East,Ranchi,Wearables,Samsung Galaxy Watch,1,19500,15,Anjali Gupta
+ORD-0996,31-10-2023,CUST-0208,Arjun Nair,Central,Raipur,Accessories,USB-C Cable,2,1500,25,Vikram Singh
+ORD-0997,31-12-2023,CUST-4996,Varun Chopra,North,Chandigarh,Tablets,Lenovo Tab P11,1,39400,15,Amit Kumar
+ORD-0998,31-12-2023,CUST-1655,Divya Shah,West,Mumbai,Laptops,Lenovo ThinkPad,2,50800,25,Priya Patel
+ORD-0999,31-12-2023,CUST-2255,Rajesh Kumar,Central,Bhopal,Smartphones,Xiaomi 13,1,41100,15,Sneha Reddy
+ORD-1000,31-12-2023,CUST-3979,Pooja Desai,West,Surat,Accessories,Laptop Bag,2,1900,20,Amit Kumar

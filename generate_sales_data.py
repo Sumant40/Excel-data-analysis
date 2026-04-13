@@ -11,6 +11,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 import random
+import os
 
 # Set random seed for reproducibility
 np.random.seed(42)
@@ -202,7 +203,10 @@ output_cols = ['Order_ID', 'Order_Date', 'Customer_ID', 'Customer_Name', 'Region
 output_df = df[output_cols]
 
 # Save to CSV
-output_file = 'retail_sales_data.csv'
+output_dir = 'output'
+os.makedirs(output_dir, exist_ok=True)
+
+output_file = os.path.join(output_dir, 'retail_sales_data.csv')
 output_df.to_csv(output_file, index=False)
 
 print(f"Dataset saved to: {output_file}")
