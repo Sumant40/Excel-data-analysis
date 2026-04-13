@@ -7,23 +7,23 @@
 ### **PHASE 1: Data Preparation ✅**
 
 #### Data Import & Cleaning
-- [ ] CSV imported into Excel
-- [ ] Data converted to Excel Table (Ctrl+T)
-- [ ] Table named: `Sales_Data`
-- [ ] Duplicates removed (Data → Remove Duplicates)
-- [ ] Missing values handled
-- [ ] Dates formatted consistently (DD-MM-YYYY)
-- [ ] Currency columns formatted as ₹
+- [✅] CSV imported into Excel
+- [✅] Data converted to Excel Table (Ctrl+T)
+- [✅] Table named: `Sales_Data`
+- [✅] Duplicates removed (Data → Remove Duplicates)
+- [✅] Missing values handled
+- [✅] Dates formatted consistently (DD-MM-YYYY)
+- [✅] Currency columns formatted as ₹
 
 #### Calculated Columns Added
-- [ ] Column M: Total_Sales = Quantity × Unit_Price
-- [ ] Column N: Discount_Amount = Total_Sales × (Discount_Percent/100)
-- [ ] Column O: Net_Sales = Total_Sales - Discount_Amount
-- [ ] Column P: Month = TEXT(Order_Date, "MMM-YYYY")
-- [ ] Column Q: Quarter = "Q" & ROUNDUP(MONTH/3,0) & "-2023"
-- [ ] Column R: Day_of_Week = TEXT(Order_Date, "DDD")
-- [ ] Column S: Revenue_Category = IF(Net_Sales>=100000,"High",IF(>=50000,"Medium","Low"))
-- [ ] All formulas working correctly (no #REF!, #VALUE! errors)
+- [✅] Column M: Total_Sales = Quantity × Unit_Price
+- [✅] Column N: Discount_Amount = Total_Sales × (Discount_Percent/100)
+- [✅] Column O: Net_Sales = Total_Sales - Discount_Amount
+- [✅] Column P: Month = TEXT(Order_Date, "MMM-YYYY")
+- [✅] Column Q: Quarter = "Q" & ROUNDUP(MONTH/3,0) & "-2023"
+- [✅] Column R: Day_of_Week = TEXT(Order_Date, "DDD")
+- [✅] Column S: Revenue_Category = IF(Net_Sales>=100000,"High",IF(>=50000,"Medium","Low"))
+- [✅] All formulas working correctly (no #REF!, #VALUE! errors)
 
 ---
 
